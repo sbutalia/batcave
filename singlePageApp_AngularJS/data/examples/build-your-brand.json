@@ -1,0 +1,51 @@
+{
+    "title": "Brand Growth",
+    "subtitle": "While social media may be the latest and greatest marketing weapon you have in your arsenal, you still need to bring your brand to life in a memorable way in order to compel consumers to take action and get involved. So grow your brand's Facebook presence with North Social apps and ensure that your \"likers\" keep listening year-round.",
+    "image_splash": "images/examples/build-your-brand/examples-brand-growth-client-example.jpg",
+    "insights_tips":"Before trying to launch a meaningful Facebook promotion, make sure everyone in your office is up to speed on your brand (your values, personality, products, positioning, etc.). Having a strong brand identity and consistent voice are the keys to social success.",
+    "features":[
+        {
+            "title":"Humanize The Message",
+            "description":"Just because Facebook runs on the web, don't assume you need to act like a computer. If your brand updates lack a real live personality, you'll have no shot at building a real relationship down the road. Don't automate your voice. Be natural. Be real. Be human.",
+            "image":"images/examples/build-your-brand/examples-brand-growth-image-1.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+
+        },
+        {
+            "title":"Be Inviting",
+            "description":"You've got the tools to give your brand's Page a beautiful makeover in minutes. Simple image uploading tools give you the power to make a memorable first impression on Facebook. Take advantage of the opportunity and make yourself more approachable.",
+            "image":"images/examples/build-your-brand/examples-brand-growth-image-2.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        },
+        {
+            "title":"Be Responsive",
+            "description":"Your social brand isn't holding a press conference where you can say \"no questions\" at the end. When you jump into the social world, be prepared to deal with people. Customers wouldn't expect you to ignore them in real life, and the same holds true for Facebook.",
+            "image":"images/examples/build-your-brand/examples-brand-growth-image-3.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+        },
+        {
+            "title":"Plan For Long Haul",
+            "description":"Brands that thrive (on and offline) do so because they're aspirational to their target. Use North Social apps to continually create elevated experiences for your page visitors and they'll continue to support your brand long after they click the \"Like\" button.",
+            "image":"images/examples/build-your-brand/examples-brand-growth-image-4.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        }
+    ],
+    "footer":{
+        "prev":{
+            "text":"Grow Sales",
+            "link":"#/p/examples/grow-sales"
+        },
+        "next":{
+            "text":"Product Sampling",
+            "link":"#/p/examples/product-sampling"
+        }
+    }
+}

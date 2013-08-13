@@ -1,0 +1,51 @@
+{
+    "title": "Celebrity",
+    "subtitle": "Celebrities have always had hard numbers to back up their claims. Except now, Nielsen ratings, album sales, and box office figures are being joined by a whole new set of social data. Fans, followers, views, and shares are the new success metrics. What are you doing to expand your personal brand and reach on Facebook?",
+    "image_splash": "images/examples/celebrity/examples-celebrity-client-example.jpg",
+    "insights_tips":"Congratulations, you're famous. Now take full advantage of your popularity by using North Social apps to customize your \"official\" public Page so you can enhance your social cred, connect with and attract more fans, promote your projects, and open up new career opportunities.",
+    "features":[
+        {
+            "title":"Connect With Fans",
+            "description":"Use North Social apps to add more sizzle and functionality to your Facebook Page. Your fans want to see your latest clips, photos, and inspirations. Have a cause to promote? Connect with your fan base and let them push it out for you.",
+            "image":"images/examples/celebrity/examples-celebrity-image-1.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+
+        },
+        {
+            "title":"Offer Fresh Content",
+            "description":"One of the most effective ways to ramp fan count is by offering \"share-worthy\" content. Use our viral Exclusive app, which encourages visitors to share a link with their friends in order to unlock your exclusive content (song, video, screen saver, invite, or digital coupon).",
+            "image":"images/examples/celebrity/examples-celebrity-image-2.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        },
+        {
+            "title":"Manage Your Reputation",
+            "description":"Creating an \"Official Page\" allows you to protect your personal brand from those social media impostors. Also, if negative rumors begin to swirl, it gives you a powerful public outlet to tell your side of the story and get ahead of any potentially distracting gossip.",
+            "image":"images/examples/celebrity/examples-celebrity-image-3.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+        },
+        {
+            "title":"Humanize Yourself",
+            "description":"Your fans want to hear from you, not from the characters you play. Use North Social apps to forge authentic and meaningful connections with your fans and keep them interested in you and your various projects for years to come.",
+            "image":"images/examples/celebrity/examples-celebrity-image-4.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        }
+    ],
+    "footer":{
+        "prev":{
+            "text":"Business To Business",
+            "link":"#/p/examples/business-to-business"
+        },
+        "next":{
+            "text":"Consumer Brands",
+            "link":"#/p/examples/consumer-brands"
+        }
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "title": "Trivia & Quiz Games",
+    "subtitle": "Engage your fans by giving them the chance to flex their mental muscles and challenge their friends to a brand-themed social showdown.",
+    "image_splash": "images/custom-apps/trivia-quiz/client-example.jpg",
+    "intro_title":"Social Media is All About Sharing and Showing (off).",
+    "intro_description":"Drive more fan engagement, social sharing, and of course, plenty of smack talk amongst friends by activating a fun and memorable quiz or trivia contest on your brand's page.",
+    "features":[
+        {
+            "title":"History Lesson",
+            "description":"Surely your hardcore fans know your history (hints are on your timeline) and they'll be up to challenge when you put their memory to the test.",
+            "image":"images/custom-apps/trivia-quiz/image-1.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+
+        },
+        {
+            "title":"Real-Time Trivia Match",
+            "description":"Test your fans mental reflexes with a real-time trivia contest with prizes going to those that respond with the right answer first.",
+            "image":"images/custom-apps/trivia-quiz/image-2.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        },
+        {
+            "title":"What is That?",
+            "description":"Whether it's a zoomed in photo, or a specific place or thing, post a challenging image that will give your most loyal and socially aware fans the best shot at answering correctly.",
+            "image":"images/custom-apps/trivia-quiz/image-3.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+        },
+        {
+            "title":"Multiple Choice",
+            "description":"Give your fans a multiple choice quiz and let them learn a few things on their way to winning a prize. <br> Example: How many North Social apps have been installed on Fan Pages in the past two years?<br>a)10,000<br>b)50,000<br>c)100,000<br>d)150,000<br>(the answer is d; 150,000)",
+            "image":"images/custom-apps/trivia-quiz/image-4.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        }
+    ],
+    "footer":{
+        "prev":{
+            "text":"Social Games",
+            "link":"#/p/customapps/social-games"
+        },
+        "next":{
+            "text":"Voting Apps",
+            "link":"#/p/customapps/voting-apps"
+        }
+    }
+}

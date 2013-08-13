@@ -1,0 +1,47 @@
+{
+    "large_icon": "/images/icons/large/apps-tf-icon-75x75.png",
+    "title": "Twitter Feed",
+    "subtitle": "Install this application and make sure your followers, friends, and fans never miss a tweet.",
+    "install":{
+        "image_url":"images/apps/twitter-feed/apps-twitter-feed-top-image.jpg"
+    },
+    "video_url": "http://www.youtube.com/embed/VGDkRvx6zMg?autoplay=1",
+    "bells_whistles":"Your Twitter feed is styled to look just like it does on your Twitter page, so your branding impressions remain consistent across platforms.",
+    "features":[
+        {
+            "title":"Customizable Header",
+            "description":"An optional customizable and linkable header, turned on/off via the Content Management Panel, allows for important brand impressions.",
+            "image":"images/apps/twitter-feed/apps-twitter-feed-image-1.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+
+        },
+        {
+            "title":"Easy Design",
+            "description":"Our Content Management System makes creating, editing, and updating your Facebook app simple. Easy editing tools let you change directions quickly - not holding you to your \"web guy's\" schedule.",
+            "image":"images/apps/twitter-feed/apps-twitter-feed-image-2.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        },
+        {
+            "title":"Share Management",
+            "description":"Every North Social app includes the ability to customize the image and messaging that gets posted to a user's wall when they share your Page.",
+            "image":"images/apps/twitter-feed/apps-twitter-feed-image-3.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+        }
+    ],
+    "footer":{
+        "prev":{
+            "text":"Video Premier",
+            "link":"#/p/apps/video-premier"
+        },
+        "next":{
+            "text":"Volunteer",
+            "link":"#/p/apps/volunteer"
+        }
+    }
+}

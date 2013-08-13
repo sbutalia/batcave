@@ -1,0 +1,51 @@
+{
+    "title": "Product Sampling",
+    "subtitle": "Say hello to the new one-person street team - the Page Admin. Did you know that to effectively and efficiently reach consumers with product samples you no longer have to recruit a troop of brand foot soldiers to distribute your product in-store, at an event, or through an inefficient clipboard intercept? Save yourself a lot of coordination (and budget) by simply pushing out a targeted product sampling program on your Facebook Page.",
+    "image_splash": "images/examples/product-sampling/examples-product-sampling-client-example.jpg",
+    "insights_tips":"Put your brand's message and product samples into the hands of motivated consumers at the latest location where they learn, live, play, share, and now shop - Facebook. Whether you have a physical or digital freebie, it's never been easier to activate an effective \"try before you buy\" program.",
+    "features":[
+        {
+            "title":"Socialize A Sample",
+            "description":"Acquaint your brand and new product releases to interested customers without having to leave your desk. North Social's deep catalog of apps can help socialize and manage your next sampling program from start to finish.",
+            "image":"images/examples/product-sampling/examples-product-sampling-image-1.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+
+        },
+        {
+            "title":"Extend Your Reach",
+            "description":"Take advantage of the convenience of North Social apps and reach of Facebook to push out targeted sampling promotions throughout the calendar year. Create global awareness and distribution for your new and seasonal products in just a few hours not months.",
+            "image":"images/examples/product-sampling/examples-product-sampling-image-2.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        },
+        {
+            "title":"Gather Customer Data",
+            "description":"Use North Social apps to embed a completely customizable info-capture form inside your Facebook Page and gather key customer data and the correct mailing address so your physical product samples wind up in the right hands.",
+            "image":"images/examples/product-sampling/examples-product-sampling-image-3.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+        },
+        {
+            "title":"Go Big Now",
+            "description":"Have a large-scale product sampling initiative? North Social can provide brands and agencies with the any or all of the following services; drafting of product giveaway rules & legal review,bonding, registration, packing, labeling, shipping, data capture, and post-program management. Click here to request more infomation.",
+            "image":"images/examples/product-sampling/examples-product-sampling-image-4.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        }
+    ],
+    "footer":{
+        "prev":{
+            "text":"Build Your Brand",
+            "link":"#/p/examples/build-your-brand"
+        },
+        "next":{
+            "text":"Agencies",
+            "link":"#/p/examples/agencies"
+        }
+    }
+}

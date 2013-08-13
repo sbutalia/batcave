@@ -1,0 +1,51 @@
+{
+    "title": "Business to Business",
+    "subtitle": "Psst...Facebook is not just for consumer brands. Expand your reach, generate leads, push out offers, and direct the conversation by putting your B2B brand in the place where all of your new business opportunities and key customers are spending their time.",
+    "image_splash": "images/examples/business-to-business/examples-business-to-business-client-example.jpg",
+    "insights_tips":"Your website and blog can only do so much to excite and educate your target market. Use North Social's suite of flexible apps to build out a custom Facebook Page so you can attract and connect with new customers, push out valuable content, and bring out the personality in your brand.",
+    "features":[
+        {
+            "title":"Generate More Leads",
+            "description":"Use the Sign Up app to schedule demos or provide more information to potential customers. Powerful CRM tools on the back-end ensure your fresh leads won't go to waste.",
+            "image":"images/examples/business-to-business/examples-business-to-business-image-1.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+
+        },
+        {
+            "title":"Be A Smart Resource",
+            "description":"Chances are that you're already keeping up with industry news and sharing smart thinking on your company blog. Now socialize your business IQ even more by using North Social apps for more effective blog, whitepaper, and case study distribution.",
+            "image":"images/examples/business-to-business/examples-business-to-business-image-2.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        },
+        {
+            "title":"Promote A Deal",
+            "description":"North Social has multiple apps in the bundle which will help you push out a fan-only offer to support your lead-gen initiatives. Offer up a product discount, a code for an upcoming webinar, or a premium giveaway rewarding early bird registrants for an industry conference.",
+            "image":"images/examples/business-to-business/examples-business-to-business-image-3.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+        },
+        {
+            "title":"Get Insightful Feedback",
+            "description":"Use your Facebook Page and North Social apps to draw upon the collective wisdom of your fanbase to identify new innovative directions for your business. Ask your fans and customers to share their experiences on your Page and get helpful feedback on new product features or offerings.",
+            "image":"images/examples/business-to-business/examples-business-to-business-image-4.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        }
+    ],
+    "footer":{
+        "prev":{
+            "text":"Author / Publishers",
+            "link":"#/p/examples/authors-publishers"
+        },
+        "next":{
+            "text":"Celebrity",
+            "link":"#/p/examples/celebrity"
+        }
+    }
+}

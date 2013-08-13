@@ -1,0 +1,47 @@
+{
+    "large_icon": "/images/icons/large/apps-fo-icon-75x75.png",
+    "title": "Fan Coupon",
+    "subtitle": "Convert visitors into fans of your Facebook page by rewarding them with an exclusive coupon or invitation to a special event.",
+    "install":{
+        "image_url":"images/apps/fan-offer/apps-fan-offer-top-image.jpg"
+    },
+    "video_url": "http://www.youtube.com/v/VGDkRvx6zMg?autoplay=1",
+    "bells_whistles":"Upload a custom image and text to entice visitors and a second image that only fans of your Page will see. The app's flexibility allows you to change the promotion and images in seconds.",
+    "features":[
+        {
+            "title":"Get More Fans",
+            "description":"Our fan gate feature entices new viewers to \"Like\" your Page before they can interact with your apps. This can explosively drive up your fan count, giving you a larger audience to engage with in the future.",
+            "image":"images/apps/fan-offer/apps-fan-offer-image-1.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+
+        },
+        {
+            "title":"Share Management",
+            "description":"Every North Social app includes the ability to customize the image and messaging that gets posted to a user's wall when they share your Page.",
+            "image":"images/apps/fan-offer/apps-fan-offer-image-2.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        },
+        {
+            "title":"Traffic Control",
+            "description":"Control where your fans go next by linking them to other Facebook tabs or any URL on the web.",
+            "image":"images/apps/fan-offer/apps-fan-offer-image-3.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+        }
+    ],
+    "footer":{
+        "prev":{
+            "text":"Exclusive",
+            "link":"#/p/apps/exclusive"
+        },
+        "next":{
+            "text":"Video Channel",
+            "link":"#/p/apps/video-channel"
+        }
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "title": "Amplify Your Social Promotion",
+    "subtitle": "Why run a promotion on one Fan Page when you could run it across two hundred?",
+    "image_splash": "images/services/promo-syndication/promo-syndication.jpg",
+    "sub_info_001" : "<h1>Promotion Development</h1><p>Our team will help create the ideal consumer and publisher facing promotional concept.</p>",
+    "sub_info_002" : "<h1>Fan Page Recruitment</h1><p>We tap our network of over 50,000 fan page admins to recruit the right syndication partners for your promotion.</p>",
+    "sub_info_003" : "<h1>Campaign Management</h1><p>We'll help deploy your promotion across hundreds of Fan Pages and ensure compliance.</p>",
+    "sub_info_004" : "<h1>Comprehensive Fulfullment</h1><p>From consumers to publishers, we'll take care of the follow up to make sure the program runs smoothly.</p>",
+    "features":[
+        {
+            "title":"Promotion Development",
+            "description":"Our team will help you concept, design, and socialize a highly motivating consumer and publisher facing promotional offer.",
+            "image":"images/services/promo-syndication/services-social-syndication-image-1.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+
+        },
+        {
+            "title":"Fan Page Recruitment",
+            "description":"Leverage our network to recruit the right syndication partners for your brand. Our apps reach millions of fans across nearly every demographic.",
+            "image":"images/services/promo-syndication/services-social-syndication-image-2.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        },
+        {
+            "title":"Campaign Management",
+            "description":"North Social manages the entire syndication process, including tech deployment and support, advanced analytics, and full performance tracking reports.",
+            "image":"images/services/promo-syndication/services-social-syndication-image-3.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+        },
+        {
+            "title":"Comprehensive Fulfillment",
+            "description":"A Syndication Specialist works directly with you to assist with any or all of the following; drafting of official rules & legal review, bonding, registration, and winner selection & notification, and prize fulfillment.",
+            "image":"images/services/promo-syndication/services-social-syndication-image-4.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        }
+    ],
+    "footer":{
+        "prev":{
+            "text":"Sweepstakes",
+            "link":"#/p/apps/sweepstakes"
+        },
+        "next":{
+            "text":"Exclusive",
+            "link":"#/p/apps/exclusive"
+        }
+    }
+}

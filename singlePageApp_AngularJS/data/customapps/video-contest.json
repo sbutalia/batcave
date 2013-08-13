@@ -1,0 +1,52 @@
+{
+    "title": "Video Contest",
+    "subtitle": "Put those smart phone video cameras to good use. Host a viral video contest on your brand's Facebook page and get your fans to show off their film-making skills.",
+    "image_splash": "images/custom-apps/video-contest/client-example.jpg",
+    "intro_title":"We Make Running A Video Contest A Walk In The Park",
+    "intro_description":"Pre-screen all of your video entries via our simple admin panel. Once you approve a fan's video, it will begin collecting votes. So it's in their best interest to push out and show off their creations with their network.",
+    "features":[
+        {
+            "title":"Audition New Talent",
+            "description":"Light up our Video Contest app to see if your fan page is crawling with undiscovered talent. Winner could earn a walk-on role in your new movie, commercial, photo shoot, or TV show.",
+            "image":"images/custom-apps/video-contest/image-1.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+
+        },
+        {
+            "title":"Battle of the Bands",
+            "description":"Media and entertainment companies, now's your chance to create major buzz by pitting local or national music talent in a winner-take-all video showdown. Tip: don't forget to reward fans for voting too.",
+            "image":"images/custom-apps/video-contest/image-2.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        },
+        {
+            "title":"User Generated Commercials",
+            "description":"Use our Video Contest app to call on the collective talent of your fan base to come up with your next big ad campaign. You'll be shocked to see how many innovative ideas exist outside the walls of your company.",
+            "image":"images/custom-apps/video-contest/image-3.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+        },
+        {
+            "title":"Branding As Art",
+            "description":"Attention CPG brands, this is your chance to think outside the box, carton, cap, or can. Ask your most creative fans to submit videos of your product or packaging used as functional art.",
+            "image":"images/custom-apps/video-contest/image-4.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        }
+    ],
+    "footer":{
+        "prev":{
+            "text":"Photo Contest",
+            "link":"#/p/customapps/photo-contest"
+        },
+        "next":{
+            "text":"Essay Contest",
+            "link":"#/p/customapps/essay-contest"
+        }
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "large_icon": "/images/icons/large/apps-su-icon-75x75.png",
+    "title": "Sign Up",
+    "subtitle": "Create contact forms, online surveys, and invitations to capture valuable information directly from your Fan page.",
+    "install":{
+        "image_url":"images/apps/sign-up/apps-sign-up-top-image.jpg"
+    },
+    "video_url": "http://www.youtube.com/embed/VGDkRvx6zMg?autoplay=1",
+    "bells_whistles":"Optional fan gating feature helps grow your fan count. This app enables you to embed easily customized content capture forms for registrations, newsletters, or other information.",
+    "features":[
+        {
+            "title":"Simple Sign Up",
+            "description":"Embed a completely customizable info-capture form inside your Facebook Page.",
+            "image":"images/apps/sign-up/apps-sign-up-image-1.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+
+        },
+        {
+            "title":"Social CRM",
+            "description":"North Contact is integrated into North Social to give you simple tools to manage and grow your subscriber lists, create and send beautiful emails, and track every click, open, delete, and forward.",
+            "image":"images/apps/sign-up/apps-sign-up-image-2.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        },
+        {
+            "title":"Get More Fans",
+            "description":"Our fan gate feature entices new viewers to \"Like\" your Page before they can interact with your apps. This can explosively drive up your fan count, giving you a larger audience to engage with in the future.",
+            "image":"images/apps/sign-up/apps-sign-up-image-3.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+        },
+        {
+            "title":"Share Management",
+            "description":"Every North Social app includes the ability to customize the image and messaging that gets posted to a user's wall when they share your Page.",
+            "image":"images/apps/sign-up/apps-sign-up-image-4.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        }
+    ],
+    "footer":{
+        "prev":{
+            "text":"First Impression",
+            "link":"#/p/apps/first-impression"
+        },
+        "next":{
+            "text":"Show & Sell",
+            "link":"#/p/apps/show-sell"
+        }
+    }
+}

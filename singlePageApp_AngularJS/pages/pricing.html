@@ -1,0 +1,527 @@
+<?php include('_htmlopen.php') ?>
+
+<link href="css/pricing.css" rel="stylesheet" media="screen">
+<!-- magic by melo starts -->
+<script>
+ /*$(function () {
+    $('#menu1 a').click(function (e) {
+        e.preventDefault();
+        $(this).tab('show');
+        
+    })
+    $('#menu2 a').click(function (e) {
+        e.preventDefault();
+        $(this).tab('show');
+    })
+    $('#menu3 a').click(function (e) {
+        e.preventDefault();
+        $(this).tab('show');
+    })
+    $('#menu4 a').click(function (e) {
+        e.preventDefault();
+        $(this).tab('show');
+    })
+ }*/
+ $('#myTab a').click(function (e) {
+  e.preventDefault();
+  $(this).tab('show');
+})
+ $('ul#menu li').live('click', function(){
+    var hash = $(this).find('a')[0].href.split('#')[1];
+    switch(hash)
+    {
+        default :
+            $('#menu1').show();   $('#menu2').hide(); $('#menu3').hide(); $('#menu4').hide();
+            break;
+        case 'menu2' :
+            $('#menu2').show();  $('#menu1').hide(); $('#menu3').hide(); $('#menu4').hide(); 
+            break;
+        case 'menu3' :
+            $('#menu3').show();  $('#menu1').hide(); $('#menu2').hide(); $('#menu4').hide(); 
+            break;
+        case 'menu4' :
+            $('#menu4').show();  $('#menu1').hide(); $('#menu2').hide(); $('#menu3').hide(); 
+            break;
+    }
+
+});
+
+ /*$(function() {
+    $('a[data-toggle="tab"]').on('shown', function (e) {
+        e.target // activated tab
+        e.relatedTarget // previous tab
+    })
+ }*/
+</script>
+<!-- magic by melo ends -->
+<script>
+  $(function() {
+    $('#the-tool-tips').tooltip('show');
+  });
+</script>
+
+<div class="span12 the-content tab-content" style="margin-left: 0px;">
+    
+    <!-- table 1 : menu1 starts -->
+    <div id="menu1">
+    <div class="now-fluid pricing-header">
+        <div class="span4">
+            <img src="images/chris.gif"/>
+        </div>
+        <div class="span8">
+            <h1>Amplify Your Social Marketing</h1>
+            <p>Unlock 18+ apps for accelerating fan growth and stronger engagement.</p>
+            <div class="dropdown">
+                <select>
+                    <option value="">Select Your Fan Page</option>
+                </select>
+            </div>
+        </div>
+    </div>
+    <div class="clear"></div>
+    <!-- pricing tier 1 starts-->
+    <div class="pricing-wrapper">
+        <!-- coloumn 1 starts -->
+        <ul id="the-tool-tips"  class="pricing-column">
+            <li class="pricing-row pricing-title">
+                <div class="pricing-lockdown">
+                    <h1>Features</h1>
+                </div>
+            </li>
+            <li class="pricing-row pricing-2line"><a href="#" class="pricing-info-tips" data-toggle="tooltip" title="first tooltip">Fan Page Apps Unlocked<br>Fan Pages Authorized</a></li>
+            <li class="pricing-row pricing-1line"><a href="#" class="pricing-info-tips">Fan Limit Per Plan Level</a></li>
+            <li class="pricing-row pricing-3line"><a href="#" class="pricing-info-tips">Like Gated Promotions<br>Custom Entry Form Builder</a></li>
+            <li class="pricing-row pricing-2line"><a href="#" class="pricing-info-tips">Instant Reply SRS<br>(Social Response System)</a></li>
+            <li class="pricing-row pricing-2line"><a href="#" class="pricing-info-tips">Content Management System for<br>Custom Branded Promotions</a></li>
+            <li class="pricing-row pricing-2line"><a href="#" class="pricing-info-tips">Dedicated App and Content Hosting<br>with no bandwidth cap</a></li>
+            <li class="pricing-row pricing-1line"><a href="#" class="pricing-info-tips">Branded Footer Link</a></li>
+            <li class="pricing-row pricing-3line"><a href="#" class="pricing-info-tips">Amazing Customer Support</a></li>
+            <li class="pricing-row pricing-1line"><a href="#" class="pricing-info-tips">Ngage: Social Analytics</a></li>
+            <li class="pricing-row pricing-1line"><a href="#" class="pricing-info-tips">Ngage: Publishing App</a></li>
+            <li class="pricing-row pricing-2line"><a href="#" class="pricing-info-tips">Ngage: Wall Monitoring<br>& Publishing Workflows</a></li>
+        </ul>
+        <!-- coloumn 1 ends -->
+        <!-- coloumn 2 starts -->
+        <ul class="pricing-column">
+            <li class="pricing-row pricing-title">
+                <div class="pricing-lockdown">
+                    <h1>Mobile Entrepreneur</h1>
+                    <p><input class="radio-indent" type="radio" name="#" value="Credit" > Credit Card:   <span class="pricing-point">$1.99</span>/day</p>
+                    <p><input class="radio-indent radio-bottom" type="radio" name="#" value="Invoice" > Paper Invoice: <span class="pricing-point">$2.99</span>/day*</p>
+                    <a href="#">Select</a>
+                </div>
+            </li>
+            <li class="pricing-row pricing-2line">All 18 Apps Unlocked for 1 Fan Page</li>
+            <li class="pricing-row pricing-1line"><span class="pricing-point">1,000</span> Fans</li>
+            <li class="pricing-row pricing-3line"><span class="pricing-point">Mandatory Like Option</span><br>Unlimited Entrants<br>Custom Entry Forms</li>
+            <li class="pricing-row pricing-2line"><span class="pricing-point">5,000</span> per month<br>Included</li>
+            <li class="pricing-row pricing-2line">Easily customize<br>your design</li>
+            <li class="pricing-row pricing-2line">Unlimited Hosting &<br>Bandwidth Included</li>
+            <li class="pricing-row pricing-1line">Yes</li>
+            <li class="pricing-row pricing-3line">Online Support</li>
+            <li class="pricing-row pricing-1line">No</li>
+            <li class="pricing-row pricing-1line">No</li>
+            <li class="pricing-row pricing-2line">No</li>
+        </ul>
+        <!-- coloumn 2 ends -->
+        <!-- coloumn 3 starts -->
+        <ul class="pricing-column pricing-grey">
+            <li class="pricing-row pricing-title">
+                <div class="pricing-lockdown">
+                    <h1>Mobile Small Business</h1>
+                    <p><input class="radio-indent" type="radio" name="#" value="Credit" > Credit Card:  <span class="pricing-point">$3.99</span>/day</p>
+                    <p><input class="radio-indent radio-bottom" type="radio" name="#" value="Invoice" > Paper Invoice: <span class="pricing-point">$4.99</span>/day*</p>
+                    <a href="#">Select</a>
+                </div>
+            </li>
+            <li class="pricing-row pricing-2line">All 18 Apps Unlocked<br>for 1 Fan Page</li>
+            <li class="pricing-row pricing-1line"><span class="pricing-point">5000</span> Fans</li>
+            <li class="pricing-row pricing-3line"><span class="pricing-point">Mandatory Like Option</span><br>Unlimited Entrants<br>Custom Entry Forms</li>
+            <li class="pricing-row pricing-2line"><span class="pricing-point">10,000</span> per month<br>Included</li>
+            <li class="pricing-row pricing-2line">Easily customize<br>your design</li>
+            <li class="pricing-row pricing-2line">Unlimited Hosting &<br>Bandwidth Included</li>
+            <li class="pricing-row pricing-1line">Yes</li>
+            <li class="pricing-row pricing-3line">Online & <span class="pricing-point">Phone Support</span></li>
+            <li class="pricing-row pricing-1line">No</li>
+            <li class="pricing-row pricing-1line">No</li>
+            <li class="pricing-row pricing-2line">No</li>
+        </ul>
+        <!-- coloumn 3 ends -->
+        <!-- coloumn 4 starts -->
+        <ul class="pricing-column">
+            <li class="pricing-row pricing-title">
+                <div class="pricing-lockdown">
+                    <h1>Mobile Medium Business</h1>
+                    <p><input class="radio-indent" type="radio" name="#" value="Credit" > Credit Card:   <span class="pricing-point">$5.99</span>/day</p>
+                    <p><input class="radio-indent radio-bottom" type="radio" name="#" value="Invoice" > Paper Invoice: <span class="pricing-point">$6.99</span>/day*</p>
+                    <a href="#">Select</a>
+                </div>
+            </li>
+            <li class="pricing-row pricing-2line">All 18 Apps Unlocked<br>for 1 Fan Page</li>
+            <li class="pricing-row pricing-1line"><span class="pricing-point">25,000</span> Fans</li>
+            <li class="pricing-row pricing-3line"><span class="pricing-point">Mandatory Like Option</span><br>Unlimited Entrants<br>Custom Entry Forms</li>
+            <li class="pricing-row pricing-2line"><span class="pricing-point">25,000</span> per month<br>Included</li>
+            <li class="pricing-row pricing-2line">Easily customize<br>your design</li>
+            <li class="pricing-row pricing-2line">Unlimited Hosting &<br>Bandwidth Included</li>
+            <li class="pricing-row pricing-1line">Yes</li>
+            <li class="pricing-row pricing-3line"><span class="pricing-point">Support Rep Assigned<br>App Installation Included</span><br>(Upon Request)</li>
+            <li class="pricing-row pricing-1line">No</li>
+            <li class="pricing-row pricing-1line">No</li>
+            <li class="pricing-row pricing-2line">No</li>
+        </ul>
+        <!-- coloumn 4 ends -->
+    </div>
+    <!-- pricing tier 1 ends-->
+    </div>
+    <!-- table 1 : menu1 ends -->
+    
+    <!-- table 2 : menu2 starts -->
+    <div id="menu2" class="hide-me">
+    <div class="now-fluid pricing-header">
+        <div class="span4">
+            <img src="images/agency1.gif"/>
+        </div>
+        <div class="span8">
+            <h1>More Pages = More Savings</h1>
+            <p>Deploy apps across multiple pages with ease.</p>
+            <div class="dropdown">
+                <select>
+                    <option value="">Select Your Fan Page</option>
+                </select>
+            </div>
+        </div>
+    </div>
+    <div class="clear"></div>
+    <!-- pricing tier 1 starts-->
+    <div class="pricing-wrapper">
+        <!-- coloumn 1 starts -->
+        <ul class="pricing-column">
+            <li class="pricing-row pricing-title">
+                <div class="pricing-lockdown">
+                    <h1>Features</h1>
+                </div>
+            </li>
+            <li class="pricing-row pricing-2line"><a href="#" class="pricing-info-tips">Fan Page Apps Unlocked Fan Pages Authorized</a></li>
+            <li class="pricing-row pricing-1line"><a href="#" class="pricing-info-tips">White Label Apps (Ideal for Agencies)</a></li>
+            <li class="pricing-row pricing-3line"><a href="#" class="pricing-info-tips">Content Management System for Custom Branded Promotions</a></li>
+            <li class="pricing-row pricing-2line"><a href="#" class="pricing-info-tips">Mandatory Like Gated Promotions Custom Entry Form Builder</a></li>
+            <li class="pricing-row pricing-2line"><a href="#" class="pricing-info-tips">Amazing Customer Support</a></li>
+            <li class="pricing-row pricing-2line"><a href="#" class="pricing-info-tips">Fan Limit Per Plan Level</a></li>
+            <li class="pricing-row pricing-1line"><a href="#" class="pricing-info-tips">Instant Reply SRS (Social Response System)</a></li>
+            <li class="pricing-row pricing-3line"><a href="#" class="pricing-info-tips">Dedicated App and Content Hosting with no bandwidth cap</a></li>
+            <li class="pricing-row pricing-1line"><a href="#" class="pricing-info-tips">Ngage: Social Analytics</a></li>
+            <li class="pricing-row pricing-1line"><a href="#" class="pricing-info-tips">Ngage: Publishing App</a></li>
+            <li class="pricing-row pricing-2line"><a href="#" class="pricing-info-tips">Ngage: Wall Monitoring<br>& Publishing Workflows</a></li>
+        </ul>
+        <!-- coloumn 1 ends -->
+        <!-- coloumn 2 starts -->
+        <ul class="pricing-column">
+            <li class="pricing-row pricing-title">
+                <div class="pricing-lockdown">
+                    <h1>10 Unlimited Mobile</h1>
+                    <p><input class="radio-indent" type="radio" name="#" value="Credit" > Credit Card:   <span class="pricing-point">$695</span>/month</p>
+                    <p><input class="radio-indent radio-bottom" type="radio" name="#" value="Invoice" > Paper Invoice: <span class="pricing-point">$725</span>/month*</p>
+                    <a href="#">Select</a>
+                </div>
+            </li>
+            <li class="pricing-row pricing-2line">All 18 Apps Unlocked for 10 Fan Pages</li>
+            <li class="pricing-row pricing-1line">White Label Apps </li>
+            <li class="pricing-row pricing-3line">Easily customize your design</li>
+            <li class="pricing-row pricing-2line"><span class="pricing-point">Mandatory</span> Like Option Unlimited Entrants Custom Entry Forms</li>
+            <li class="pricing-row pricing-2line">Support Representative Assigned</li>
+            <li class="pricing-row pricing-2line">Unlimited Fans</li>
+            <li class="pricing-row pricing-1line">Included</li>
+            <li class="pricing-row pricing-3line">Unlimited Hosting & Bandwidth Included</li>
+            <li class="pricing-row pricing-1line">No</li>
+            <li class="pricing-row pricing-1line">No</li>
+            <li class="pricing-row pricing-2line">No</li>
+        </ul>
+        <!-- coloumn 2 ends -->
+        <!-- coloumn 3 starts -->
+        <ul class="pricing-column pricing-grey">
+            <li class="pricing-row pricing-title">
+                <div class="pricing-lockdown">
+                    <h1>50 Unlimited Mobile</h1>
+                    <p><input class="radio-indent" type="radio" name="#" value="Credit" > Credit Card:  <span class="pricing-point">$1,995</span>/month</p>
+                    <p><input class="radio-indent radio-bottom" type="radio" name="#" value="Invoice" > Paper Invoice: <span class="pricing-point">$2025</span>/month*</p>
+                    <a href="#">Select</a>
+                </div>
+            </li>
+            <li class="pricing-row pricing-2line">All 18 Apps Unlocked for 50 Fan Pages</li>
+            <li class="pricing-row pricing-1line">White Label Apps</li>
+            <li class="pricing-row pricing-3line">Easily customize your design</li>
+            <li class="pricing-row pricing-2line"><span class="pricing-point">Mandatory Like Option</span> Unlimited Entrants Custom Entry Forms</li>
+            <li class="pricing-row pricing-2line">Support Representative Assigned</li>
+            <li class="pricing-row pricing-2line">Unlimited Fans</li>
+            <li class="pricing-row pricing-1line">Included</li>
+            <li class="pricing-row pricing-3line">Unlimited Hosting & Bandwidth Included</li>
+            <li class="pricing-row pricing-1line">No</li>
+            <li class="pricing-row pricing-1line">No</li>
+            <li class="pricing-row pricing-2line">No</li>
+        </ul>
+        <!-- coloumn 3 ends -->
+        <!-- coloumn 4 starts -->
+        <ul class="pricing-column">
+            <li class="pricing-row pricing-title">
+                <div class="pricing-lockdown">
+                    <h1>100 Unlimited Mobile</h1>
+                    <p><input class="radio-indent" type="radio" name="#" value="Credit" > Credit Card:   <span class="pricing-point">$3,790</span>/month</p>
+                    <p><input class="radio-indent radio-bottom" type="radio" name="#" value="Invoice" > Paper Invoice: <span class="pricing-point">$3,820/</span>/month*</p>
+                    <a href="#">Select</a>
+                </div>
+            </li>
+            <li class="pricing-row pricing-2line">All 18 Apps Unlocked for 100 Fan Pages</li>
+            <li class="pricing-row pricing-1line">White Label Apps</li>
+            <li class="pricing-row pricing-3line">Easily customize your design</li>
+            <li class="pricing-row pricing-2line"><span class="pricing-point">Mandatory Like Option</span> Unlimited Entrants Custom Entry Forms</li>
+            <li class="pricing-row pricing-2line">Support Representative Assigned</li>
+            <li class="pricing-row pricing-2line">Unlimited Fans</li>
+            <li class="pricing-row pricing-1line">Included</li>
+            <li class="pricing-row pricing-3line">Unlimited Hosting & Bandwidth Included</li>
+            <li class="pricing-row pricing-1line">No</li>
+            <li class="pricing-row pricing-1line">No</li>
+            <li class="pricing-row pricing-2line">No</li>
+        </ul>
+        <!-- coloumn 4 ends -->
+    </div>
+    <!-- pricing tier 1 ends-->
+    </div>
+    <!-- table 2 : menu2 ends -->
+    
+    <!-- table 3 : menu3 starts -->
+    <div id="menu3" class="hide-me">
+    <div class="now-fluid pricing-header">
+        <div class="span4">
+            <img src="images/group.gif"/>
+        </div>
+        <div class="span8">
+            <h1>Big Pages Deserve Big Apps</h1>
+            <p>North Social Apps power promotions for some of the world's leading brands.</p>
+            <div class="dropdown">
+                <select>
+                    <option value="">Select Your Fan Page</option>
+                </select>
+            </div>
+        </div>
+    </div>
+    <div class="clear"></div>
+    <!-- pricing tier 4 starts-->
+    <div class="pricing-wrapper">
+        <!-- coloumn 1 starts -->
+        <ul class="pricing-column">
+            <li class="pricing-row pricing-title">
+                <div class="pricing-lockdown">
+                    <h1>Features</h1>
+                </div>
+            </li>
+            <li class="pricing-row pricing-2line"><a href="#" class="pricing-info-tips">Fan Page Apps Unlocked<br>Fan Pages Authorized</a></li>
+            <li class="pricing-row pricing-1line"><a href="#" class="pricing-info-tips">Fan Limit Per Plan Level</a></li>
+            <li class="pricing-row pricing-3line"><a href="#" class="pricing-info-tips">Amazing Customer Support</a></li>
+            <li class="pricing-row pricing-2line"><a href="#" class="pricing-info-tips">Like Gated Promotions Custom Entry Form Builder</a></li>
+            <li class="pricing-row pricing-2line"><a href="#" class="pricing-info-tips">Instant Reply SRS (Social Response System)</a></li>
+            <li class="pricing-row pricing-2line"><a href="#" class="pricing-info-tips">White Label (No Footer links)</a></li>
+            <li class="pricing-row pricing-1line"><a href="#" class="pricing-info-tips">Dedicated App and Content Hosting with no bandwidth cap</a></li>
+            <li class="pricing-row pricing-3line"><a href="#" class="pricing-info-tips">Content Management System for Easy App Design</a></li>
+            <li class="pricing-row pricing-1line"><a href="#" class="pricing-info-tips">Ngage: Social Analytics</a></li>
+            <li class="pricing-row pricing-1line"><a href="#" class="pricing-info-tips">Ngage: Publishing App</a></li>
+            <li class="pricing-row pricing-2line"><a href="#" class="pricing-info-tips">Ngage: Wall Monitoring<br>& Publishing Workflows</a></li>
+        </ul>
+        <!-- coloumn 1 ends -->
+        <!-- coloumn 2 starts -->
+        <ul class="pricing-column">
+            <li class="pricing-row pricing-title">
+                <div class="pricing-lockdown">
+                    <h1>Mobile Marketing Maven</h1>
+                    <p><input class="radio-indent" type="radio" name="#" value="Credit" > Credit Card:   <span class="pricing-point">$9.99</span>/day</p>
+                    <p><input class="radio-indent radio-bottom" type="radio" name="#" value="Invoice" > Paper Invoice: <span class="pricing-point">$10.99</span>/day*</p>
+                    <a href="#">Select</a>
+                </div>
+            </li>
+            <li class="pricing-row pricing-2line">All 18 Apps Unlocked for 1 Fan Page</li>
+            <li class="pricing-row pricing-1line"><span class="pricing-point">50,000</span> Fans</li>
+            <li class="pricing-row pricing-3line">Support Representative Assigned</li>
+            <li class="pricing-row pricing-2line"><span class="pricing-point">Mandatory Like Option</span> Unlimited Entrants Custom Entry Forms</li>
+            <li class="pricing-row pricing-2line">50,000 per month Included</li>
+            <li class="pricing-row pricing-2line">White Label</li>
+            <li class="pricing-row pricing-1line">Unlimited Hosting & Bandwidth Included</li>
+            <li class="pricing-row pricing-3line">Easily customize your app design</li>
+            <li class="pricing-row pricing-1line">No</li>
+            <li class="pricing-row pricing-1line">No</li>
+            <li class="pricing-row pricing-2line">No</li>
+        </ul>
+        <!-- coloumn 2 ends -->
+        <!-- coloumn 3 starts -->
+        <ul class="pricing-column pricing-grey">
+            <li class="pricing-row pricing-title">
+                <div class="pricing-lockdown">
+                    <h1>1 Unlimited Mobile</h1>
+                    <p><input class="radio-indent" type="radio" name="#" value="Credit" > Credit Card:  <span class="pricing-point">$11.99</span>/day</p>
+                    <p><input class="radio-indent radio-bottom" type="radio" name="#" value="Invoice" > Paper Invoice: <span class="pricing-point">$12.99</span>/day*</p>
+                    <a href="#">Select</a>
+                </div>
+            </li>
+            <li class="pricing-row pricing-2line">All 18 Apps Unlocked<br>for 1 Fan Page</li>
+            <li class="pricing-row pricing-1line"><span class="pricing-point">Unlimited</span> Fans</li>
+            <li class="pricing-row pricing-3line">Support Representative Assigned</li>
+            <li class="pricing-row pricing-2line"><span class="pricing-point">Mandatory Like Option</span> Unlimited Entrants Custom Entry Forms</li>
+            <li class="pricing-row pricing-2line">Unlimited SRS confirmations Included</li>
+            <li class="pricing-row pricing-2line">White Label</li>
+            <li class="pricing-row pricing-1line">Unlimited Hosting & Bandwidth Include</li>
+            <li class="pricing-row pricing-3line">Easily customize your app design</li>
+            <li class="pricing-row pricing-1line">No</li>
+            <li class="pricing-row pricing-1line">No</li>
+            <li class="pricing-row pricing-2line">No</li>
+        </ul>
+        <!-- coloumn 3 ends -->
+        <!-- coloumn 4 starts -->
+        <ul class="pricing-column">
+            <li class="pricing-row pricing-title">
+                <div class="pricing-lockdown">
+                    <h1>5 Unlimited Mobile</h1>
+                    <p><input class="radio-indent" type="radio" name="#" value="Credit" > Credit Card:   <span class="pricing-point">$14.99</span>/day</p>
+                    <p><input class="radio-indent radio-bottom" type="radio" name="#" value="Invoice" > Paper Invoice: <span class="pricing-point">$15.99</span>/day*</p>
+                    <a href="#">Select</a>
+                </div>
+            </li>
+            <li class="pricing-row pricing-2line">All 18 Apps Unlocked<br>for 5 Fan Page</li>
+            <li class="pricing-row pricing-1line"><span class="pricing-point">Unlimited</span> Fans</li>
+            <li class="pricing-row pricing-3line">Support Representative Assigned</li>
+            <li class="pricing-row pricing-2line"><span class="pricing-point">Mandatory Like Option</span> Unlimited Entrants Custom Entry Forms</li>
+            <li class="pricing-row pricing-2line">Unlimited SRS confirmations Included</li>
+            <li class="pricing-row pricing-2line">White Label</li>
+            <li class="pricing-row pricing-1line">Unlimited Hosting & Bandwidth Include</li>
+            <li class="pricing-row pricing-3line">Easily customize your app design</li>
+            <li class="pricing-row pricing-1line">No</li>
+            <li class="pricing-row pricing-1line">No</li>
+            <li class="pricing-row pricing-2line">No</li>
+        </ul>
+        <!-- coloumn 4 ends -->
+    </div>
+    <!-- pricing tier 3 ends-->
+    </div>
+    <!-- table 3 : menu3 ends -->
+    
+    <!-- table 4 : menu4 starts -->
+    <div id="menu4" class="hide-me">
+    <div class="now-fluid pricing-header">
+        <div class="span4">
+            <img src="images/ngage.gif"/>
+        </div>
+        <div class="span8">
+            <h1>Measure Everything</h1>
+            <p>Analytics and Publishing to help maximize your social media marketing.</p>
+            <div class="dropdown">
+                <select>
+                    <option value="">Select Your Fan Page</option>
+                </select>
+            </div>
+        </div>
+    </div>
+    <div class="clear"></div>
+    <!-- pricing tier 1 starts-->
+    <div class="pricing-wrapper">
+        <!-- coloumn 1 starts -->
+        <ul class="pricing-column">
+            <li class="pricing-row pricing-title">
+                <div class="pricing-lockdown">
+                    <h1>Features</h1>
+                </div>
+            </li>
+            <li class="pricing-row pricing-2line"><a href="#" class="pricing-info-tips">Fan Page Apps Included (available to all page admins)</a></li>
+            <li class="pricing-row pricing-1line"><a href="#" class="pricing-info-tips">Unique Ngage Users (for publishing and analysis tools)</a></li>
+            <li class="pricing-row pricing-3line"><a href="#" class="pricing-info-tips">Ngage Social Analytics Dashboard Goal (click) Tracking</a></li>
+            <li class="pricing-row pricing-2line"><a href="#" class="pricing-info-tips">Ngage Unified Social Publishing App Integrated Social Properties</a></li>
+            <li class="pricing-row pricing-2line"><a href="#" class="pricing-info-tips">Ngage Wall Monitoring & Social Listening & Engagement Dashboard</a></li>
+            <li class="pricing-row pricing-2line"><a href="#" class="pricing-info-tips">Instant Reply SRS (Social Response System)</a></li>
+            <li class="pricing-row pricing-1line"><a href="#" class="pricing-info-tips">Like Gated Promotions Custom Entry Form Builder</a></li>
+            <li class="pricing-row pricing-3line"><a href="#" class="pricing-info-tips">Amazing Customer Support</a></li>
+            <li class="pricing-row pricing-1line"><a href="#" class="pricing-info-tips">Dedicated App and Content Hosting with no bandwidth cap</a></li>
+            <li class="pricing-row pricing-1line"><a href="#" class="pricing-info-tips">Fan Limit Per Plan Level</a></li>
+            <li class="pricing-row pricing-2line"><a href="#" class="pricing-info-tips">White Label (No Footer links)</a></li>
+        </ul>
+        <!-- coloumn 1 ends -->
+        <!-- coloumn 2 starts -->
+        <ul class="pricing-column">
+            <li class="pricing-row pricing-title">
+                <div class="pricing-lockdown">
+                    <h1>Ngage Solo</h1>
+                    <p><input class="radio-indent" type="radio" name="#" value="Credit" > Credit Card:   <span class="pricing-point">$695</span>/month</p>
+                    <p><input class="radio-indent radio-bottom" type="radio" name="#" value="Invoice" > Paper Invoice: <span class="pricing-point">$725</span>/month*</p>
+                    <a href="#">Select</a>
+                </div>
+            </li>
+            <li class="pricing-row pricing-2line">All 18 Apps Unlocked for 1 Fan Page ($359 in value)</li>
+            <li class="pricing-row pricing-1line"><span class="pricing-point">1 User</span></li>
+            <li class="pricing-row pricing-3line"><span class="pricing-point">Yes</span> No Goal Pixels</li>
+            <li class="pricing-row pricing-2line">Included Up to <span class="pricing-point">5 Social Properties</span></li>
+            <li class="pricing-row pricing-2line">Included</li>
+            <li class="pricing-row pricing-2line">Unlimited SRS Confirmations Included</li>
+            <li class="pricing-row pricing-1line">Mandatory Likes + Custom Entry Forms</li>
+            <li class="pricing-row pricing-3line">Account executive + Ngage set up and installation</li>
+            <li class="pricing-row pricing-1line">Included</li>
+            <li class="pricing-row pricing-1line">Unlimited Fans</li>
+            <li class="pricing-row pricing-2line">White Label</li>
+        </ul>
+        <!-- coloumn 2 ends -->
+        <!-- coloumn 3 starts -->
+        <ul class="pricing-column pricing-grey">
+            <li class="pricing-row pricing-title">
+                <div class="pricing-lockdown">
+                    <h1>Ngage Trio</h1>
+                    <p><input class="radio-indent" type="radio" name="#" value="Credit" > Credit Card:  <span class="pricing-point">$995</span>/month</p>
+                    <p><input class="radio-indent radio-bottom" type="radio" name="#" value="Invoice" > Paper Invoice: <span class="pricing-point">$1025</span>/month*</p>
+                    <a href="#">Select</a>
+                </div>
+            </li>
+            <li class="pricing-row pricing-2line">All 18 Apps Unlocked for 5 Fan Pages ($449 in value)</li>
+            <li class="pricing-row pricing-1line"><span class="pricing-point">3 Users</span></li>
+            <li class="pricing-row pricing-3line"><span class="pricing-point">Yes 1</span> Goal Pixel</li>
+            <li class="pricing-row pricing-2line">Included Up to <span class="pricing-point">15 Social Properties</span></li>
+            <li class="pricing-row pricing-2line">Included</li>
+            <li class="pricing-row pricing-2line">Unlimited SRS Confirmations Included</li>
+            <li class="pricing-row pricing-1line">Mandatory Likes + Custom Entry Forms</li>
+            <li class="pricing-row pricing-3line">Account executive + Ngage set up and installation</li>
+            <li class="pricing-row pricing-1line">Included</li>
+            <li class="pricing-row pricing-1line">Unlimited Fans</li>
+            <li class="pricing-row pricing-2line">White Label</li>
+        </ul>
+        <!-- coloumn 3 ends -->
+        <!-- coloumn 4 starts -->
+        <ul class="pricing-column">
+            <li class="pricing-row pricing-title">
+                <div class="pricing-lockdown">
+                    <h1>Ngage Team</h1>
+                    <p><input class="radio-indent" type="radio" name="#" value="Credit" > Credit Card:   <span class="pricing-point">$1495</span>/month</p>
+                    <p><input class="radio-indent radio-bottom" type="radio" name="#" value="Invoice" > Paper Invoice: <span class="pricing-point">$1525</span>/day*</p>
+                    <a href="#">Select</a>
+                </div>
+            </li>
+            <li class="pricing-row pricing-2line">All 18 Apps Unlocked for 10 Fan Pages ($695 in value)</li>
+            <li class="pricing-row pricing-1line"><span class="pricing-point">10 Users</span> Review / approval roles</li>
+            <li class="pricing-row pricing-3line"><span class="pricing-point">Yes Unlimited</span> Goal Pixels</li>
+            <li class="pricing-row pricing-2line">1 Custom Publisher + <span class="pricing-point">Unlimited Social Properties</span></li>
+            <li class="pricing-row pricing-2line">Included + Team Roles & Workflows</li>
+            <li class="pricing-row pricing-2line">Unlimited SRS Confirmations Included</li>
+            <li class="pricing-row pricing-1line">Mandatory Likes + Custom Entry Forms</li>
+            <li class="pricing-row pricing-3line">Account executive + Ngage set up and installation</li>
+            <li class="pricing-row pricing-1line">Included</li>
+            <li class="pricing-row pricing-1line">Unlimited Fans</li>
+            <li class="pricing-row pricing-2line">White Label</li>
+        </ul>
+        <!-- coloumn 4 ends -->
+    </div>
+    <!-- pricing tier 4 ends-->
+    </div>
+    <!-- table 4 : menu4 ends -->
+    
+    <!-- pricing Nav starts -->
+    <ul id="menu" class="menu">
+        <li class="active"><a href="#menu1" data-toggle="tab">For Small Businesses</a></li>
+        <li class=""><a href="#menu2" data-toggle="tab">For Agencies &amp; Designers</a></li>
+        <li class=""><a href="#menu3" data-toggle="tab">For Big Brands</a></li>
+        <li class=""><a href="#menu4" data-toggle="tab">Social Publishing &amp; Analytics</a></li>
+    </ul>
+    <!-- pricing Nav ends -->
+</div>
+
+<?php include('_htmlclose.php') ?>

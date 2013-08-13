@@ -1,0 +1,43 @@
+{
+    "title": "Mobile Sweepstakes",
+    "subtitle": "Create and launch a viral deal on your Facebook Page where you can set the number of registrations required to unlock a group discount.",
+    "image_splash": "/images/examples/fan-growth/examples-fan-growth-client-example.jpg",
+    "insights_tips":"Customizable deal settings (timelines, participants, price) allow for complete flexibility, and easy editing tools enable custom deal design and share settings. Best of all, no need for a new ecommerce solution, as Deal Share integrates seamlessly with your website's current platform or PayPal account.",
+    "features":[
+        {
+            "title":"Instant Gratification",
+            "description":"Put your promotions right in your customers hands to maximize participation and engagement",
+            "image":"images/apps/apps-deal-share-image-1.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+
+        },
+        {
+            "title":"Get More Fans",
+            "description":"Our fan gate feature entices new viewers to \"like\" your Page before they can interact with your apps. This can explosively drive up your fan count, giving you a large audience to message, activate promotions, and push out must-have content to in the future.",
+            "image":"images/apps/apps-deal-share-image-2.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        },
+        {
+            "title":"Easy Design",
+            "description":"Our Content Management System makes creating, editing, and updating your Facebook app simple. Easy editing tools let you change directions quickly - not holding you to your \"web guy's\" schedule.",
+            "image":"images/apps/apps-deal-share-image-3.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+        }
+    ],
+    "footer":{
+        "prev":{
+            "text":"Sweepstakes",
+            "link":"#/p/apps/sweepstakes"
+        },
+        "next":{
+            "text":"Exclusive",
+            "link":"#/p/apps/exclusive"
+        }
+    }
+}

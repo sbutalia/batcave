@@ -1,0 +1,51 @@
+{
+    "title": "Hotels / Lodging",
+    "subtitle": "Whether traveling for business, family, or fun, consumers rely almost exclusively on the Internet to hunt for the deals, information, and brands that can provide them with an elevated and more affordable traveling experience. Leverage our powerful Facebook tools to turn these lookers into bookers.",
+    "image_splash": "images/examples/hotels-lodging/examples-hotels-lodging-client-example.jpg",
+    "insights_tips":"From activating fan-only sweepstakes to implementing customer acquisition programs to showcasing your amenities, our versatile applications allow hotels, resorts, and other travel-related brands to activate low cost, high impact social media marketing strategies.",
+    "features":[
+        {
+            "title":"Show Off Amenities",
+            "description":"The most challenging part of discovering a new hideaway is seeing the place first. Use North Social tools like the Showcase app to show off your accommodations and nearby attractions, making your prospective guests feel at home before they even get there.",
+            "image":"images/examples/hotels-lodging/examples-hotels-lodging-image-1.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+
+        },
+        {
+            "title":"Activate A Deal",
+            "description":"North Social has multiple apps in the bundle which will help you push out a fan-only offer to support your customer acquisition initiatives. Offer up a discount, a group deal, or a premium giveaway rewarding potential patrons.",
+            "image":"images/examples/hotels-lodging/examples-hotels-lodging-image-2.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        },
+        {
+            "title":"Listen. Learn. Modify.",
+            "description":"Social Media is about trying new things and being able to quickly adjust to what your customers are saying. All of our apps have simple content management tools, allowing you to adapt your message, content, and hospitality offers in real time.",
+            "image":"images/examples/hotels-lodging/examples-hotels-lodging-image-3.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+        },
+        {
+            "title":"Sign 'Em Up",
+            "description":"Our powerful CRM tools make customer info collection, management, and ongoing messaging a breeze. Simple subscriber targeting and list segments enable you to easily send the right message to the right subscriber every time.",
+            "image":"images/examples/hotels-lodging/examples-hotels-lodging-image-4.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        }
+    ],
+    "footer":{
+        "prev":{
+            "text":"Health / Fitness",
+            "link":"#/p/examples/health-fitness"
+        },
+        "next":{
+            "text":"Medical / Legal",
+            "link":"#/p/examples/medical-legal"
+        }
+    }
+}

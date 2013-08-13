@@ -1,0 +1,55 @@
+{
+    "large_icon": "/images/icons/large/apps-dd-icon-75x75.png",
+    "title": "Document Display",
+    "subtitle": "Share important documents like whitepapers, articles, instructions, and other text or visual-heavy materials directly on your fan page.",
+    "install":{
+        "image_url":"images/apps/document-display/apps-document-display-top-image.jpg"
+    },
+    "video_url": "http://youtube.com/embed/tNhV-ICueNY?autoplay=1",
+    "bells_whistles":"Application flexibility allows you to embed a wide range of document types. Perfect for whitepapers, presentations, menus, or any other document form supported by Scribd.",
+    "features":[
+        {
+            "title":"Customizable Header",
+            "description":"An optional customizable and linkable header, turned on/off via the Content Management Panel, allows for important brand impressions.",
+            "image":"images/apps/document-display/apps-document-display-image-1.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+
+        },
+        {
+            "title":"Get More Fans",
+            "description":"Our fan gate feature entices new viewers to \"Like\" your Page before they can interact with your apps. This can explosively drive up your fan count, giving you a larger audience to engage with in the future.",
+            "image":"images/apps/document-display/apps-document-display-image-2.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        },
+        {
+            "title":"Commenting is Good",
+            "description":"Social commenting box encourages the chatter around your content, driving additional awareness and traffic to the Page.",
+            "image":"images/apps/document-display/apps-document-display-image-3.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+        },
+        {
+            "title":"Share Management",
+            "description":"Every North Social app includes the ability to customize the image and messaging that gets posted to a user's wall when they share your Page.",
+            "image":"images/apps/document-display/apps-document-display-image-4.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        }
+    ],
+    "footer":{
+        "prev":{
+            "text":"Partner Pages",
+            "link":"#/p/apps/partner-pages"
+        },
+        "next":{
+            "text":"RSS Feed",
+            "link":"#/p/apps/rss-feed"
+        }
+    }
+}

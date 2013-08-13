@@ -1,0 +1,47 @@
+{
+    "large_icon": "/images/icons/large/apps-ie-icon-75x75.png",
+    "title": "Iframe Editor",
+    "subtitle": "The most versatile app in our suite. App functionality is limited only by your imagination.",
+    "install":{
+        "image_url":"images/apps/html-editor/apps-iframe-editor-top-image.jpg"
+    },
+    "video_url": "http://youtube.com/embed/pV1cRuX0FBc?autoplay=1",
+    "bells_whistles":"Full fan-gating app on steroids, allowing you to use an Image, URL, or full HTML to create a powerful and engaging experience for your Page visitors.",
+    "features":[
+        {
+            "title":"Get More Fans",
+            "description":"Our fan gate feature entices new viewers to like your Page before they can interact with the app's content. This can explosively drive up your fan count, giving you a large audience to message, activate promotions, and push out must-have content to in the future.",
+            "image":"images/apps/html-editor/apps-iframe-editor-image-1.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+
+        },
+        {
+            "title":"Total Control",
+            "description":"Mix and match multiple content sources for non-fan and fan-only views. Application flexibility lets you change directions on the fly while storing all your data for future use.",
+            "image":"images/apps/html-editor/apps-iframe-editor-image-2.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        },
+        {
+            "title":"WYSIWYG Iframe Editor",
+            "description":"The built-in WYSIWYG editor makes it easy to create a beautiful tab without writing a single line of code. If the mood should strike you, toggle to the code view and drop in your custom-coded masterpiece. Have an idea you want to bring to life, but not sure how? Get in touch.",
+            "image":"images/apps/html-editor/apps-iframe-editor-image-3.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+        }
+    ],
+    "footer":{
+        "prev":{
+            "text":"Instagram",
+            "link":"#/p/apps/instagram"
+        },
+        "next":{
+            "text":"Sweepstakes",
+            "link":"#/p/apps/sweepstakes"
+        }
+    }
+}

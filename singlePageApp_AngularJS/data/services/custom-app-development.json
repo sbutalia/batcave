@@ -1,0 +1,54 @@
+{
+    "title": "Jaw Dropping Custom Apps",
+    "subtitle": "We turn big ideas into real apps with our amazing team of app engineers and designers.",
+    "image_splash": "images/services/custom-app-development/custom-app-development.jpg",
+    "sub_info_001" : "<h1>Application Blueprint</h1><p>Our app design team works with you to architect a blueprint for your custom app.</p>",
+    "sub_info_002" : "<h1>Graphic Design</h1><p>Once the app blueprint is complete, we'll help create the visual assets that bring the code to life.</p>",
+    "sub_info_003" : "<h1>Development & Testing</h1><p>Our engineers use our app framework to rapidly develop, test for functionality, and prepare your app for launch.</p>",
+    "sub_info_004" : "<h1>Hosting & Support</h1><p>We support each custom app with a highly scalable hosting environment and our dedicated support team.</p>",
+    "features":[
+        {
+            "title":"Application Blueprint",
+            "description":"We team up to create a custom app wireframe to capture your desired user experience and click paths for optimal fan engagement.",
+            "image":"images/services/custom-app-development/services-custom-development-image-1.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+
+        },
+        {
+            "title":"Graphic Design",
+            "description":"We'll create the ideal graphic design for your custom app which reflects your brand's look, tone, and feel.",
+            "image":"images/services/custom-app-development/services-custom-development-image-2.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        },
+        {
+            "title":"Development & Testing",
+            "description":"Our engineering team will quickly develop your custom app on top of our flexible app platform and then test each app across all major browsers.",
+            "image":"images/services/custom-app-development/services-custom-development-image-3.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+        },
+        {
+            "title":"Hosting & Support",
+            "description":"Each custom app is deployed on our scalable hosting infrastructure to ensure maximum uptime, and minimal headaches.",
+            "image":"images/services/custom-app-development/services-custom-development-image-4.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        }
+    ],
+    "footer":{
+        "prev":{
+            "text":"Sweepstakes",
+            "link":"#/p/apps/sweepstakes"
+        },
+        "next":{
+            "text":"Exclusive",
+            "link":"#/p/apps/exclusive"
+        }
+    }
+}

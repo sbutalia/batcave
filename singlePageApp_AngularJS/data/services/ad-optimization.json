@@ -1,0 +1,54 @@
+{
+    "title": "Facebook Ads Done Right",
+    "subtitle": "Our team of ad planners and designers will take the guesswork out of your social ad campaigns.",
+    "image_splash": "images/services/ad-optimization/ad-optimization.jpg",
+    "sub_info_001" : "<h1>Social Target Profiling</h1><p>We'll map your target consumer to the right targeting profiles so only your ideal customer will see your social ads.</p>",
+    "sub_info_002" : "<h1>Ad Creation</h1><p>From images to copy, we'll create the highest converting ads possible, optimized for click rates and cost.</p>",
+    "sub_info_003" : "<h1>Drive Traffic</h1><p>Let our ad optimizers put your promotional campaigns into high gear by driving hyper-targeted traffic to your Page.</p>",
+    "sub_info_004" : "<h1>Campaign Management</h1><p>We manage each campaign to optimize every click and every penny to ensure the best possible results.</p>",
+    "features":[
+        {
+            "title":"Social Target Profiling",
+            "description":"Our Social Target Profilesª uncover the pages, brands, gender, age, categories, and activities that define your target consumers on Facebook, ensuring your ads resonate and connect.",
+            "image":"images/services/ad-optimization/services-ad-optimization-image-1.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+
+        },
+        {
+            "title":"Ad Creation",
+            "description":"Our team of graphic designers and ad specialists will create and test multiple combinations of both copy and images along with the ad targeting variables in order to achieve the most efficient results for your brand.",
+            "image":"images/services/ad-optimization/services-ad-optimization-image-2.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        },
+        {
+            "title":"Drive Traffic",
+            "description":"Increase your page traffic and interaction with your North Social promotional apps by activating a low-cost, high-impact Facebook ad campaign.",
+            "image":"images/services/ad-optimization/services-ad-optimization-image-3.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+        },
+        {
+            "title":"Campaign Management",
+            "description":"North Social provides full service ad campaign management, including creative development of ads, social targeting, click optimization, and performance reporting on an ongoing basis.",
+            "image":"images/services/ad-optimization/services-ad-optimization-image-4.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        }
+    ],
+    "footer":{
+        "prev":{
+            "text":"Sweepstakes",
+            "link":"#/p/apps/sweepstakes"
+        },
+        "next":{
+            "text":"Exclusive",
+            "link":"#/p/apps/exclusive"
+        }
+    }
+}

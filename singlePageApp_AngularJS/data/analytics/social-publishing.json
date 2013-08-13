@@ -1,0 +1,53 @@
+{
+    "title": "Social Publishing Take control of your social media marketing.",
+    "subtitle": "Schedule posts and push updates to Facebook, Twitter, LinkedIn. Integrated campaign and click tracking. Approval workflows make managing your social team a snap.",
+    "video_title_number": "Demo Video (1 of 3)",
+    "video_urls": "http://player.vimeo.com/video/42586934?autoplay=1",
+    "intro_title":"Multi-Platform Social Media Publishing",
+    "intro_description":"If you manage multiple properties across Facebook, Twitter, and LinkedIn, this app will make your life significantly easier, and your efforts far more productive. Have a social media team? Ngage's team management tools make approving and scheduling draft posts a snap.",
+    "features":[
+        {
+            "title":"Schedule Future Posts",
+            "description":"With Ngage's post planner you can easily schedule your social posts across Facebook, Twitter, and LinkedIn. Ngage Team features post approvals so you can have multiple team members draft posts and centralize approvals before they go live.",
+            "image":"images/ngage/social-publishing/social_engagement_1.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+
+        },
+        {
+            "title":"Assign Campaign Tags",
+            "description":"To improve your social publishing (get more clicks, fans, and engagement) you need to be able to measure which posts deliver results. The Ngage publisher enables you to tag each post within a campaign so you can organize posts by product, promotion, topic, or author.",
+            "image":"images/ngage/social-publishing/social_engagement_2.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        },
+        {
+            "title":"Push to Multiple Social Properties",
+            "description":"Chances are pretty good that you've got more than one social media property to deal with. By integrating multiple properties into a single platform you can publish, measure, and monitor them all from a single easy to use dashboard.",
+            "image":"images/ngage/social-publishing/social_engagement_3.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+        },
+        {
+            "title":"Improve Your Social IQ",
+            "description":"Your ability to improve and review your social campaigns is directly tied to what kind of data you can access after the posts go live. Ngage delivers actionable information that will enable you to make more informed decisions.",
+            "image":"images/ngage/social-publishing/social_engagement_4.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        }
+    ],
+    "footer":{
+        "prev":{
+            "text":"Overview",
+            "link":"#/p/analytics/overview"
+        },
+        "next":{
+            "text":"Engagement",
+            "link":"#/p/analytics/engagement"
+        }
+    }
+}

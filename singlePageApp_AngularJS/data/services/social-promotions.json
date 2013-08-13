@@ -1,0 +1,55 @@
+{
+    "title": "Promotions That Produce Results",
+    "subtitle": "From concept to execution, our team of expert promotion builders will bring your big idea to life.",
+    "image_splash": "images/services/social-promotions/social-promotions.jpg",
+    "intro_title":"The Best Photo Contest On Facebook. Period.",
+    "sub_info_001" : "<h1>Promotion Planning</h1><p>We'll help you create the ideal social promotion for your brand ensuring maximum results.</p>",
+    "sub_info_002" : "<h1>Concept Development</h1><p>Not all promotions are created equal. Our team of promo experts will help craft the right offer for your target fans.</p>",
+    "sub_info_003" : "<h1>Promotion Launch</h1><p>From app selection to graphic design, we ensure that your social promotion launches on time, and on budget.</p>",
+    "sub_info_004" : "<h1>Prize Fulfillment</h1><p>Our team will ensure that you effectively execute the most important phase of the promotion; fulfillment.</p>",
+    "features":[
+        {
+            "title":"Planning Guide",
+            "description":"Let our team act as your promotion sherpa, arming you with smart execution deliverables to keep your brand and Facebook page headed in the right direction.",
+            "image":"images/services/social-promotions/services-promotion-development-image-1.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+
+        },
+        {
+            "title":"Concept Development",
+            "description":"Is your promo \"pass on worthy\"? Once the strategy is built, our creative juice makers step in to blend together an actionable program that is motivating to even the most discriminating social target.",
+            "image":"images/services/social-promotions/services-promotion-development-image-2.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        },
+        {
+            "title":"Promotion Launch",
+            "description":"Our team will make sure you're using the right app to achieve your brand's promotional objectives; we have promotional apps for launching memorable sweepstakes, exclusive giveaways, group deals, and more.",
+            "image":"images/services/social-promotions/services-promotion-development-image-3.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+        },
+        {
+            "title":"Comprehensive Fulfillment",
+            "description":"Short-staffed? Our team can assist with any or all of the following; drafting of official rules & legal review, bonding, registration, winner selection & notification, and prize fulfillment.",
+            "image":"images/services/social-promotions/services-promotion-development-image-4.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        }
+    ],
+    "footer":{
+        "prev":{
+            "text":"Sweepstakes",
+            "link":"#/p/apps/sweepstakes"
+        },
+        "next":{
+            "text":"Exclusive",
+            "link":"#/p/apps/exclusive"
+        }
+    }
+}

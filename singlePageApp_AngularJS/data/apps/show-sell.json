@@ -1,0 +1,47 @@
+{
+    "large_icon": "/images/icons/large/apps-ss-icon-75x75.png",
+    "title": "Show & Sell",
+    "subtitle": "Sell your products or services on Facebook with this easy-to-configure social mini-store.",
+    "install":{
+        "image_url":"images/apps/show-sell/apps-show-&-sell-top-image.jpg"
+    },
+    "video_url": "http://www.youtube.com/embed/VGDkRvx6zMg?autoplay=1",
+    "bells_whistles":"Perfect for adding a product showcase to your Facebook Page, our Show & Sell app allows you to display up to 10 featured items with unique \"Buy Now\" links and social commenting plug-ins. Viral functionality of the app ensures your products are spread wide, increasing sales, and social engagement with your brand.",
+    "features":[
+        {
+            "title":"Buy Now Button",
+            "description":"Add links to your eCommerce site so your Facebook fans are one click away from your online store.",
+            "image":"images/apps/show-sell/apps-show-&-sell-image-1.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+
+        },
+        {
+            "title":"Customizable Header",
+            "description":"An optional customizable and linkable header, turned on/off via the Content Management Panel, allows for important brand impressions.",
+            "image":"images/apps/show-sell/apps-show-&-sell-image-2.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        },
+        {
+            "title":"Share Management",
+            "description":"Every North Social app includes the ability to customize the image and messaging that gets posted to a user's wall when they share your Page.",
+            "image":"images/apps/show-sell/apps-show-&-sell-image-3.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+        }
+    ],
+    "footer":{
+        "prev":{
+            "text":"Sign Up",
+            "link":"#/p/apps/sign-up"
+        },
+        "next":{
+            "text":"Partner Pages",
+            "link":"#/p/apps/partner-pages"
+        }
+    }
+}

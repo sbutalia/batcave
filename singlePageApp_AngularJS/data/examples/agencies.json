@@ -1,0 +1,51 @@
+{
+    "title": "Agencies",
+    "subtitle": "Whether you're an agency, social media consultant, or graphic designer, our apps are designed to provide the foundation you need to quickly build powerful Facebook Pages for your diverse roster of clients.",
+    "image_splash": "images/examples/agencies/examples-agencies-client-example.jpg",
+    "insights_tips":"North Social has apps to help achieve virtually any one your clients' social media objectives; fan growth, brand engagement, promotions, sales, content distribution, CRM, and more.",
+    "features":[
+        {
+            "title":"White Label Apps",
+            "description":"All Agency Partner account applications come without any consumer facing North Social links and logos. Use our deep catalog of apps to customize unique social brand experiences for your diverse roster of clients, so you and your partner brands can shine.",
+            "image":"images/examples/agencies/examples-agencies-image-1.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+
+        },
+        {
+            "title":"Walk Your Talk",
+            "description":"Before promoting your social media smarts, make sure you're practicing what you preach. Winning new business starts with your own online appearance. After all, if your own Facebook Page fails to inspire, how can you be trusted to handle someone else's brand and budget?",
+            "image":"images/examples/agencies/examples-agencies-image-2.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        },
+        {
+            "title":"Showcase Case Studies",
+            "description":"Use North Social's Photo Showcase app to put together an attractive slider of the custom Facebook Pages you've built. Chatter is cheap. Social proof is not. Put your portfolio of work on display.",
+            "image":"images/examples/agencies/examples-agencies-image-3.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+        },
+        {
+            "title":"Share Your Capabilities",
+            "description":"Without going as in depth as your website, use our mix of apps to give your prospective buyers a taste for your social media capabilities. From strategy, to design, to activation to measurement, show 'em how you can grow their social.",
+            "image":"images/examples/agencies/examples-agencies-image-4.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        }
+    ],
+    "footer":{
+        "prev":{
+            "text":"Product Sampling",
+            "link":"#/p/examples/product-sampling"
+        },
+        "next":{
+            "text":"Authors / Publishers",
+            "link":"#/p/examples/authors-publishers"
+        }
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "large_icon": "/images/icons/large/apps-rs-icon-75x75.png",
+    "title": "RSS Feed",
+    "subtitle": "Automatically share your blog posts or news content to your Fans. Grow your fan count with the optional fan gating feature.",
+    "install":{
+        "image_url":"images/apps/rss-feed/apps-rss-feed-top-image.jpg"
+    },
+    "video_url": "http://youtube.com/embed/itZqsdB5mYk?autoplay=1",
+    "bells_whistles":"RSS feed from your blog or desired news source is displayed directly on your Page. Images and text are displayed with links back to the source site for additional reading.",
+    "features":[
+        {
+            "title":"Get More Fans",
+            "description":"Our fan gate feature entices new viewers to \"Like\" your Page before they can interact with your apps. This can explosively drive up your fan count, giving you a larger audience to engage with in the future.",
+            "image":"images/apps/rss-feed/apps-rss-feed-image-1.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+
+        },
+        {
+            "title":"Customizable Header",
+            "description":"An optional customizable and linkable header, turned on/off via the Content Management Panel, allows for important brand impressions.",
+            "image":"images/apps/rss-feed/apps-rss-feed-image-2.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        },
+        {
+            "title":"Share Management",
+            "description":"Every North Social app includes the ability to customize the image and messaging that gets posted to a user's wall when they share your Page.",
+            "image":"images/apps/rss-feed/apps-rss-feed-image-3.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+        },
+        {
+            "title":"Easy Design",
+            "description":"Our Content Management System makes creating, editing, and updating your Facebook app simple. Easy editing tools let you change directions quickly - not holding you to your \"web guy's\" schedule.",
+            "image":"images/apps/rss-feed/apps-rss-feed-image-4.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        }
+    ],
+    "footer":{
+        "prev":{
+            "text":"Document Display",
+            "link":"#/p/apps/document-display"
+        },
+        "next":{
+            "text":"Donate",
+            "link":"#/p/apps/donate"
+        }
+    }
+}

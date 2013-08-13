@@ -1,0 +1,51 @@
+{
+    "title": "Small Business",
+    "subtitle": "Creating global awareness for a local business has never before been so accessible. When local cupcake shops are able to amass 200,000+ fans on Facebook, you can truly feel the power of social media. Harness this opportunity by deploying our fan-gated apps and watch your small biz take flight.",
+    "image_splash": "images/examples/small-business/examples-small-business-client-example.jpg",
+    "insights_tips":"Our monthly subscriptions start at a small biz-friendly $19.99/month. You can now effectively give out coupon codes, run sweepstakes, activate group deals, and trick out your Page just like the deep-pocketed McStarbucks of the world.",
+    "features":[
+        {
+            "title":"You're In Control",
+            "description":"Our simple content management system lets you update and control your Page's brand experience without ever having to hire a developer, take a class in web programming, or become a Photoshop whiz.",
+            "image":"images/examples/small-business/examples-small-business-image-1.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+
+        },
+        {
+            "title":"Attract New Customers",
+            "description":"Global awareness for your business has never been this easy and accessible to create. When local cupcake shops are able to amass 200,000+ fans on Facebook, you can see the power of social media. Harness this opportunity by deploying our fan-gated apps and watch your small biz take flight.",
+            "image":"images/examples/small-business/examples-small-business-image-2.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        },
+        {
+            "title":"Use Your Creativity",
+            "description":"The playing field has been leveled; your small business can now compete head to head with your bigger competition on Facebook using North Social apps. All it takes is a clever and compelling offer that's unique to your brand. Learn to do more with less by unleashing your creativity.",
+            "image":"images/examples/small-business/examples-small-business-image-3.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+        },
+        {
+            "title":"Wheel and Deal",
+            "description":"Even if you're just getting started on Facebook, money-saving opportunities can still help ramp your fan count. North Social has multiple apps in the bundle which will help beginners push out \"likeable\" offers to quickly inspire a following.",
+            "image":"images/examples/small-business/examples-small-business-image-4.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        }
+    ],
+    "footer":{
+        "prev":{
+            "text":"Service Providers",
+            "link":"#/p/examples/service-providers"
+        },
+        "next":{
+            "text":"Sports / Athletes",
+            "link":"#/p/examples/sports-athletes"
+        }
+    }
+}

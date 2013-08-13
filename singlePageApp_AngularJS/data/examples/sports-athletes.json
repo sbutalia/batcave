@@ -1,0 +1,51 @@
+{
+    "title": "Sports / Athletes",
+    "subtitle": "Long before \"fans\" became a term synonymous with Facebook, it was used to describe those passionate sports fanatics who obsessively followed their favorite teams and athletes on the gridiron, diamond, hardwood, fields, and ice. Yep, if you work or play in the sports industry it's essential you leverage social media to connect with your fiercely loyal fanbase.",
+    "image_splash": "images/examples/sports-athletes/examples-sports-athletes-client-example.jpg",
+    "insights_tips":"Whether your job involves throwing on a jersey and competing or selling every seat for every home game, North Social apps can give your Facebook fan count, brand, team, organization, and social influence a big-league boost.",
+    "features":[
+        {
+            "title":"Involve Your Fans",
+            "description":"Don't just provide your best fans content they can get by tuning in to Sportscenter. This is your chance to involve them like you never have before. Serve up exclusive content and news (digital VIP invites, screensavers, ticket offers, and insider clips) and encourage them to share the goods with their personal network.",
+            "image":"images/examples/sports-athletes/examples-sports-athletes-example-1.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+
+        },
+        {
+            "title":"Market Yourself",
+            "description":"Hey athletes, your fans want to hear from YOU, not from your agent, publicist, or personal assistant. Use North Social apps to build your personal brand, enabling you to forge authentic and meaningful connections with your biggest supporters. Ya never know, you could land a show on VH1 :).",
+            "image":"images/examples/sports-athletes/examples-sports-athletes-example-2.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        },
+        {
+            "title":"Socialize Ticket Sales",
+            "description":"Unless you're the Lakers, Yankees, or having an undefeated season, we imagine you still have some tickets to sell. Use our social commerce and promotional apps to push out special individual or season ticket offers. Want to activate a group deal? Install our viral Deal Share app and watch your attendance rise.",
+            "image":"images/examples/sports-athletes/examples-sports-athletes-example-3.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+        },
+        {
+            "title":"Sell More Stuff",
+            "description":"Use our our powerful social commerce apps to put your latest must-have items on display for purchase - from throwback jerseys to cheerleader calendars to team caps (or maybe a gift certificate for the undecided).",
+            "image":"images/examples/sports-athletes/examples-sports-athletes-example-4.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        }
+    ],
+    "footer":{
+        "prev":{
+            "text":"Small Business",
+            "link":"#/p/examples/small-business"
+        },
+        "next":{
+            "text":"Technology",
+            "link":"#/p/examples/technology"
+        }
+    }
+}

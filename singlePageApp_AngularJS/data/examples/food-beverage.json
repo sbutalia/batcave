@@ -1,0 +1,51 @@
+{
+    "title": "Food / Beverage",
+    "subtitle": "It's no fluke that some of the most \"liked\" Pages on Facebook belong to Food and Beverage brands. Let's face it, people love their snacks, sweets, and caffeinated treats and they're willing to follow and socialize those brands if it means they'll be rewarded for participating.",
+    "image_splash": "images/examples/food-beverage/examples-food-beverage-client-example.jpg",
+    "insights_tips":"If you want your brand to make regular appearances on consumer grocery lists, you must make more meaningful connections with them where they spend most of their online time (umm, Facebook). Use North Social apps to deploy a wide range of marketing tactics to whet and satsify the appetite of your key customers.",
+    "features":[
+        {
+            "title":"Socialize A Sample",
+            "description":"Product sampling and giveaways are monster tools for growing your fan count and brand awareness. Use North Social's deep app catalog to manage your next sampling program from start to finish.",
+            "image":"images/examples/food-beverage/examples-food-beverage-image-1.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+
+        },
+        {
+            "title":"Promote Coupon Clicking",
+            "description":"Yep, make them an offer they simply can't refuse. Fifty cents off a soda or a $0.25 off a bag of chips are not \"like or share worthy\". Before giving out a coupon code or sending out a digital coupon, ask yourself, \"would I \"like\" my brand to get that offer?\"",
+            "image":"images/examples/food-beverage/examples-food-beverage-image-2.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        },
+        {
+            "title":"Run A Sweeps",
+            "description":"The key promotional drivers for motivating the masses haven't shifted for years. People still love cash, cars, and trips. However, make sure the prize package you're promoting at least has something to do with your brand (i.e. if you're a salty snack, why on earth would you give away a Kindle?).",
+            "image":"images/examples/food-beverage/examples-food-beverage-image-3.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+        },
+        {
+            "title":"Give Out Tips",
+            "description":"There are other ways to attract and motivate fans besides giving away product. Post fresh content like recipes and serving ideas. Better yet, encourage participation by asking fans to submit their creations, videos, or photos.",
+            "image":"images/examples/food-beverage/examples-food-beverage-image-4.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        }
+    ],
+    "footer":{
+        "prev":{
+            "text":"Entertainment Media",
+            "link":"#/p/examples/entertainment-media"
+        },
+        "next":{
+            "text":"Health / Fitness",
+            "link":"#/p/examples/health-fitness"
+        }
+    }
+}

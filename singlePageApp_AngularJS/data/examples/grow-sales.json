@@ -1,0 +1,51 @@
+{
+    "title": "Grow Sales",
+    "subtitle": "So you're eager to make the cash register ring. Well, a custom Facebook page is a powerful marketing vehicle for meeting new customers, letting them get to know you a little bit, and then closing the deal. Tap into apps for your Page that enable you to convert your social traffic into revenue with a handful of simple tactics.",
+    "image_splash": "images/examples/grow-sales/examples-grow-sales-client-example.jpg",
+    "insights_tips":"Don't make the mistake of trying to bring your entire warehouse of inventory to the social party. Use our eCommerce apps to highlight your best stuff, new and seasonal releases, and then link prospective buyers to your website to purchase or redeem an attractive offer.",
+    "features":[
+        {
+            "title":"Be A Show Off",
+            "description":"Several apps enable you to add large images of your product right into your Facebook Page. Facebook is a visual environment so skip the J. Peterman catalog style paragraphs of copy and wow them with visual candy. Link back to your secure eCommerce store to close the deal.",
+            "image":"images/examples/grow-sales/examples-grow-sales-example-1.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+
+        },
+        {
+            "title":"Make Shopping Social",
+            "description":"Whether it's through social commenting on your products or putting a deal together that is so good your customers will just have to click the share button, you should make sure that when you turn on the \"Buy Now\" button on your Page it’s for something worth talking about.",
+            "image":"images/examples/grow-sales/examples-grow-sales-example-2.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        },
+        {
+            "title":"Master The Promotion",
+            "description":"Take advantage of North Social's powerful group coupon app so you can push out a motivating social promotion that not only brings more visitors to your Page, but converts them into paying customers quickly. (Check out the Deal Share app to learn more).",
+            "image":"images/examples/grow-sales/examples-grow-sales-example-3.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+        },
+        {
+            "title":"Lock It Up",
+            "description":"A key factor of online commerce is security and trust. When your fans are ready to buy, make sure that you bring them to your secure eCommerce site for checkout. Social is fun; entering your credit card information into a platform designed for quickly spreading information, not so much.",
+            "image":"images/examples/grow-sales/examples-grow-sales-example-4.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        }
+    ],
+    "footer":{
+        "prev":{
+            "text":"Promotions",
+            "link":"#/p/examples/promotions"
+        },
+        "next":{
+            "text":"Build Your Brand",
+            "link":"#/p/examples/build-your-brand"
+        }
+    }
+}

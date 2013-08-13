@@ -1,0 +1,54 @@
+{
+    "title": "Socialize Your Product Sample",
+    "subtitle": "We use social media to put your product in the hands of thousands of thirsty customers.",
+    "image_splash": "images/services/product-sampling/product-sampling.jpg",
+    "sub_info_001" : "<h1>Sample Blueprint</h1><p>We'll help create the perfect plan to leverage social media to get your product in the hands of your target consumer.</p>",
+    "sub_info_002" : "<h1>Program Activation</h1><p>We'll design and launch the right apps to generate a massive ground swell of hungry customers.</p>",
+    "sub_info_003" : "<h1>Product Fulfillment</h1><p>Need to deliver ten thousand product samples to users across the country? No problem, we do it all the time.</p>",
+    "sub_info_004" : "<h1>Program Management</h1><p>Our team will make sure your sampling program runs smoothly from start to finish.</p>",
+    "features":[
+        {
+            "title":"Sampling Blueprint",
+            "description":"The North Social team will work with you to help craft the winning social strategy for your brand or agency outlining how to activate your brand's sampling program from idea to execution.",
+            "image":"images/services/product-sampling/services-product-sampling-image-1.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+
+        },
+        {
+            "title":"Program Activation",
+            "description":"Our team delivers graphic design, app selection, and an integrated social CRM solution so your brand can gather key customer data and put your product samples in the right hands.",
+            "image":"images/services/product-sampling/services-product-sampling-image-2.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        },
+        {
+            "title":"Product Fulfillment",
+            "description":"Short-staffed? Our team can assist with any or all of the following; drafting of product giveaway rules & legal review, bonding, registration, packing, labeling, and shipping.",
+            "image":"images/services/product-sampling/services-product-sampling-image-3.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+        },
+        {
+            "title":"Program Management",
+            "description":"Once the sampling initiative has run its course, we'll be there to comb through the post-program data, provide advanced analytics, a program breakdown, and a sampling performance tracking report.",
+            "image":"images/services/product-sampling/services-product-sampling-image-4.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        }
+    ],
+    "footer":{
+        "prev":{
+            "text":"Sweepstakes",
+            "link":"#/p/apps/sweepstakes"
+        },
+        "next":{
+            "text":"Exclusive",
+            "link":"#/p/apps/exclusive"
+        }
+    }
+}

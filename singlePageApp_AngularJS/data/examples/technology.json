@@ -1,0 +1,51 @@
+{
+    "title": "Technology",
+    "subtitle": "For technology companies, having a Facebook Page and presence is not a nice-to-have, it's a requirement. Your current evangelists want to get involved with you socially. They're just waiting for you to give them a compelling reason to join in (helps to give them an incentive to \"like\" you). Keep your base happy and It will be much easier to grow your fan count.",
+    "image_splash": "images/examples/technology/examples-technology-client-example.jpg",
+    "insights_tips":"A standard (app-less) Facebook Page can only do so much to excite and educate new prospects. Use North Social's suite of flexible apps to build out a custom Facebook Page so you can attract and connect with new customers, push out valuable content and special offers, and bring out the human side of your brand.",
+    "features":[
+        {
+            "title":"Screen A Demo",
+            "description":"Use either of our Video apps to give your Facebook visitors a sneak peek at your new products or use them to deliver an instructional demo of your hardware or software. If they like what they see, you can direct them to the Sign Up app where they can sign up for more information or become a beta tester.",
+            "image":"images/examples/technology/examples-technology-image-1.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+
+        },
+        {
+            "title":"Drive Store Traffic",
+            "description":"Get eyeballs and wallets into your digital door by using our social commerce and couponing apps, which allow you to direct your Facebook Page traffic back to your online store. Viral newsfeed, status update, and share features encourage influencers to pass on your custom Page and special offers to their network of friends.",
+            "image":"images/examples/technology/examples-technology-image-2.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        },
+        {
+            "title":"Promote A Deal",
+            "description":"North Social has multiple apps in the bundle which will help you push out a fan-only offer to support your lead gen initiatives. Offer up a product discount, a code for an upcoming webinar, or a premium giveaway rewarding early bird registrants for an industry conference.",
+            "image":"images/examples/technology/examples-technology-image-3.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+        },
+        {
+            "title":"Drop Some Knowledge",
+            "description":"Chances are that you're already keeping up with industry news and sharing smart thinking on your company blog. Now socialize your business IQ even more by using North Social apps for viral whitepaper and case study distribution.",
+            "image":"images/examples/technology/examples-technology-image-4.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        }
+    ],
+    "footer":{
+        "prev":{
+            "text":"Sports / Athletes",
+            "link":"#/p/examples/sports-athletes"
+        },
+        "next":{
+            "text":"Transportation",
+            "link":"#/p/examples/transportation"
+        }
+    }
+}

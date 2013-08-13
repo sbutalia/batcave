@@ -1,0 +1,47 @@
+{
+    "large_icon": "/images/icons/large/apps-nc-icon-75x75.png",
+    "title": "North Contact",
+    "subtitle": "North Contact is a free social CRM extension for North Social' s apps. Perfect for creating user forms, list management, as well as outbound emails and auto-responders.",
+    "install":{
+        "image_url":"images/apps/north-contact/apps-north-contact-top-image.jpg"
+    },
+    "video_url": "http://www.youtube.com/embed/VGDkRvx6zMg?autoplay=1",
+    "bells_whistles":"Skip the spreadsheets and keep all your email subscribers in one place. Back up campaigns with hard data so you improve over time. Simple subscriber targeting and list segments enable you to easily send the right message to the right subscriber every time.",
+    "features":[
+        {
+            "title":"Social CRM",
+            "description":"North Contact is integrated into North Social to give you simple tools to manage and grow your subscriber lists, create and send beautiful emails, and track every click, open, delete, and forward.",
+            "image":"images/apps/north-contact/apps-north-contact-image-1.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+
+        },
+        {
+            "title":"Send Sexy Emails",
+            "description":"North Contact also enables users to import or create branded emails that will dazzle your subscribers. Integrate auto-response emails to create instant follow up with your fans.",
+            "image":"images/apps/north-contact/apps-north-contact-image-2.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        },
+        {
+            "title":"Manage Subscribers",
+            "description":"Using integrated Facebook applications from North Social (like Sweepstakes, Volunteer, Sign Up, and Deal Share), and simple cut and paste forms, North Contact can help you grow your subscriber list no time flat.",
+            "image":"images/apps/north-contact/apps-north-contact-image-3.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+        }
+    ],
+    "footer":{
+        "prev":{
+            "text":"Map It",
+            "link":"#/p/apps/map-it"
+        },
+        "next":{
+            "text":"Pricing",
+            "link":"#/p/pricing"
+        }
+    }
+}

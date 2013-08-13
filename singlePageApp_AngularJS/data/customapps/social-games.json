@@ -1,0 +1,52 @@
+{
+    "title": "Social Games",
+    "subtitle": "When built with the right hooks, easy-to-play social games can engage your fans and provide dramatic returns on your social media marketing efforts.",
+    "image_splash": "images/custom-apps/social-games/client-example.jpg",
+    "intro_title":"Launch A Viral Game; Set Your Brand's All-Time Best Score.",
+    "intro_description":"Let our team build you an addictive social game to support your next marketing initiative. By smartly integrating your brand with the game's content, features, and functions, we can help turn your passive fan base into active participants and grow your social metrics.",
+    "features":[
+        {
+            "title":"Hide and Seek",
+            "description":"Hidden object games are quickly becoming all the rage on Facebook. Showcase your brand or product in a compelling storyline and allow your engaged fans to challenge their friends for the title.",
+            "image":"images/custom-apps/social-games/image-1.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+
+        },
+        {
+            "title":"Ultimate Maze Game",
+            "description":"Challenge your fans to find the quickest route through a twisting and turning maze. Let our team help you make the reward for playing just as compelling as the game's experience so your fans will want to share it with their friends.",
+            "image":"images/custom-apps/social-games/image-2.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        },
+        {
+            "title":"Promote a Puzzle",
+            "description":"Word finders, memory games, and digital jigsaw puzzles are great low barrier to play games for educating current and prospective consumers about the benefits of your product or cause.",
+            "image":"images/custom-apps/social-games/image-3.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+        },
+        {
+            "title":"Vroom Vroom",
+            "description":"Sell cars, motorcycles, boats, snowmobiles, or bikes? Integrate your brand into a simple racing game and let your fans test drive your product (and challenge their friends) on Facebook.",
+            "image":"images/custom-apps/social-games/image-4.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        }
+    ],
+    "footer":{
+        "prev":{
+            "text":"Essay Contest",
+            "link":"#/p/customapps/essay-contest"
+        },
+        "next":{
+            "text":"Trivia & Quiz",
+            "link":"#/p/customapps/trivia-quiz"
+        }
+    }
+}

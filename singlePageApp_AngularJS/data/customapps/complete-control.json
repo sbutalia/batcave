@@ -1,0 +1,44 @@
+{
+    "title": "Complete Control",
+    "subtitle": "Launch an entertaining user-generated photo contest on your brand's page and watch your fan growth and engagement take flight.",
+    "image_splash": "/images/custom-apps/photo-contest/client-example.jpg",
+    "intro_title":"The Best Photo Contest On Facebook. Period.",
+    "intro_description":"Use our powerful photo contest app to generate massive viral growth and awareness for your brand, product or cause. Short on ideas? Tap our team to concept and develop a memorable promotion to support your brand's business objectives.",
+    "features":[
+        {
+            "title":"Spot The Brand Contest",
+            "description":"Put your promotions right in your customers hands to maximize participation and engagement",
+            "image":"images/apps/apps-deal-share-image-1.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+
+        },
+        {
+            "title":"Get More Fans",
+            "description":"Our fan gate feature entices new viewers to \"like\" your Page before they can interact with your apps. This can explosively drive up your fan count, giving you a large audience to message, activate promotions, and push out must-have content to in the future.",
+            "image":"images/apps/apps-deal-share-image-2.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        },
+        {
+            "title":"Easy Design",
+            "description":"Our Content Management System makes creating, editing, and updating your Facebook app simple. Easy editing tools let you change directions quickly - not holding you to your \"web guy's\" schedule.",
+            "image":"images/apps/apps-deal-share-image-3.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+        }
+    ],
+    "footer":{
+        "prev":{
+            "text":"Sweepstakes",
+            "link":"#/p/apps/sweepstakes"
+        },
+        "next":{
+            "text":"Exclusive",
+            "link":"#/p/apps/exclusive"
+        }
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Medical / Legal",
+    "subtitle": "Good medical and legal advice is hard to find, so make it easy on your prospective clients by lighting up an online \"open for business\" sign for your firm through a custom Facebook Page. Tap into networks beyond just friends and family by incentivizing those closest to them to spread the word about your Page and practice.",
+    "image_splash": "images/examples/medical-legal/examples-medical-legal-client-example.jpg",
+    "insights_tips":"Social media referrals and positive word-of-mouth are two of the most effective ways to build new patient and client referrals. From sharing advice & expertise to promoting special offers & events, adding North Social apps helps to ensure you're getting a great return on time and effort spent promoting your practice on Facebook.",
+    "features":[
+        {
+            "title":"Build Your Brand",
+            "description":"Before you take steps to promote your services with prospective clients and patients on Facebook, take some time to brand yourself as a person or firm whom people will follow and trust. Spark a conversation and share examples of your work before you jump into sales mode.",
+            "image":"images/examples/medical-legal/examples-medical-legal-image-1.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+
+        },
+        {
+            "title":"Generate Qualified Leads",
+            "description":"Don't be overly aggressive and pitch your services right out of the gate, but instead listen to your prospective clients' challenges, provide interest, care, and some suggested solutions on your Page. Once people have shown interest in your practice, you can use our Sign Up app to capture their contact information.",
+            "image":"images/examples/medical-legal/examples-medical-legal-image-2.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        },
+        {
+            "title":"Post Your Location",
+            "description":"There's nothing worse than being late to an appointment (for you and your client). Use our Map It app to post your address, phone number, and directions directly on your Facebook Page.",
+            "image":"images/examples/medical-legal/examples-medical-legal-image-3.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+        },
+        {
+            "title":"Share Your Expertise",
+            "description":"You're most likely already sharing medical or legal advice on your company website or blog. So why don't you socialize your expertise even more by using our apps for whitepaper or advice distribution. Feature legal video tips to educate and motivate prospective clients.",
+            "image":"images/examples/medical-legal/examples-medical-legal-image-4.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        }
+    ],
+    "footer":{
+        "prev":{
+            "text":"Hotels / Lodging",
+            "link":"#/p/examples/hotels-lodging"
+        },
+        "next":{
+            "text":"Musicians / Bands",
+            "link":"#/p/examples/musicians-bands"
+        }
+    }
+}

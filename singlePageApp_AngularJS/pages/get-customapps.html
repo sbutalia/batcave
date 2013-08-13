@@ -1,0 +1,46 @@
+<div class="row-fluid">
+        <div class="span12 the-content">
+                <div class="span12">
+                        <img src="images/new-ribbon.png"/>
+                        <h1>Custom Applications</h1>
+                        <p>Please complete the form below and someone from our Custom Application team will contact you shortly.</p>
+                        <p class="text-left"><a ng-href="#/p/apps/overview" role="button" class="btn-ns-big" >Browse the App Buffet</a></p>
+                </div>
+                <div class="span12">
+                        <label class="desc" id="title1" for="Field1">Your Name<span id="req_1" class="req">*</span></label>
+                        <input id="Field1" name="Field1" type="text" class="field text fn" value="" size="8" tabindex="1" onkeyup="handleInput(this);" onchange="handleInput(this);" required />
+                        <label for="Field1">First</label>
+                        <input id="Field2" name="Field2" type="text" class="field text ln" value="" size="14" tabindex="2" onkeyup="handleInput(this);" onchange="handleInput(this);" required />
+                        <label for="Field2">Last</label>
+                        <p class="instruct" id="instruct1"><small>Please enter your name, or we'll have to call you Dude, or Buddy.</small></p>
+                        
+                        <label class="desc" id="title3" for="Field3">Email<span id="req_3" class="req">*</span></label>
+                        <input id="Field3" name="Field3" type="email" spellcheck="false" class="field text medium" value="" maxlength="255" tabindex="3" onkeyup="handleInput(this);" onchange="handleInput(this);" required /> 
+                        <p class="instruct" id="instruct3"><small>Please let us know which email you'd like us to use to contact you. Don't worry, we'll never share.</small></p>
+                        
+                        <label class="desc" id="title4" for="Field4">Phone Number<span id="req_4" class="req">*</span></label>
+                        <input id="Field4" class="field text medium" name="Field4" tabindex="4" onkeyup="handleInput(this);" onchange="handleInput(this);" required type="tel" maxlength="255" value="" /> 
+                        <p class="instruct" id="instruct4"><small>Enter the best number to reach you so we can set up a time to talk shop.</small></p>
+                        
+                        <label class="desc" id="title208" for="Field208">Which Apps Are You Interested In</label>
+                        <select id="Field208" name="Field208" class="field select medium" onclick="handleInput(this);" onkeyup="handleInput(this);" tabindex="5" > 
+                                <option value="Select One" selected="selected">Select One</option>
+                                <option value="Photo Contest" >Photo Contest</option>
+                                <option value="Holiday Advent Calendar" >Holiday Advent Calendar</option>
+                                <option value="Custom Trivia Contest" >Custom Trivia Contest</option>
+                                <option value="All of the Above" >All of the Above</option>
+                        </select>
+                        <p class="instruct" id="instruct208"><small>Please select the app that you are interested in learning about.</small></p>
+                        
+                        <label class="desc" id="title106" for="Field106">Anything else we should know?<br />(optional)</label>
+                        
+                        <textarea id="Field106" name="Field106" class="field textarea medium" spellcheck="true" rows="10" cols="50" tabindex="6" onkeyup="handleInput(this); validateRange(106, 'word');" onchange="handleInput(this);"></textarea>
+                        <label for="Field106">Maximum Allowed: <var id="rangeMaxMsg106">150</var> words.&nbsp;&nbsp;&nbsp; <em class="currently">Currently Used: <var id="rangeUsedMsg106">0</var> words.</em></label>
+                        <p class="instruct" id="instruct106"><small>Have something to say? This is where you can let us know if there is something special that we need to know before touching base.</small></p>
+                        
+                        <input type="hidden" name="currentPage" id="currentPage" value="hb0yIgEQdba2HyC3c9RVkcXU8IwuBeT6LL4sjgERSW31Xo=" />
+                        <input id="saveForm" name="saveForm" class="btImg submit" type="image"  src="https://northsocial.com/images/wufoo/submit-button.png" alt="Submit" onmousedown="doSubmitEvents();" />
+                </div>
+        </div>
+</div>
+<!--the main section ends -->

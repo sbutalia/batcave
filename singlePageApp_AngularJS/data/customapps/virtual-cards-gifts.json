@@ -1,0 +1,52 @@
+{
+    "title": "Vitual Cards & Gifts",
+    "subtitle": "Allow your users to participate with your brand in a meaningful way by giving them an opportunity to send a digital treat to their personal network.",
+    "image_splash": "images/custom-apps/virtual-cards-gifts/client-example.jpg",
+    "intro_title":"Give the Gift of Gift Giving",
+    "intro_description":"Say that three times fast, then serve up a memorable experience for your fans by activating our customizable virtual gifting app for your brand. This flexible app lets you promote and push out coupons, e-cards, photos, songs, videos, and more.",
+    "features":[
+        {
+            "title":"Send a Card",
+            "description":"Use this powerful app to make your brand go viral by having your fans select and share their favorite cards with friends. Perfect for supporting your holiday or seasonal-based promotional campaigns.",
+            "image":"images/custom-apps/virtual-cards-gifts/image-1.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+
+        },
+        {
+            "title":"Send a Song",
+            "description":"Introduce fans to your new release and allow them to dedicate a song to their friends by activating our virtual gifting app. App shares a thumbnail image of your track and allows the receiver to download the audio file for free.",
+            "image":"images/custom-apps/virtual-cards-gifts/image-2.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        },
+        {
+            "title":"Rally Support",
+            "description":"Build more support and momentum for your cause, candidate, or political platform by letting your fan base push out informative messaging on your behalf. App exposes your brand to even more eyeballs in the sender's newsfeed.",
+            "image":"images/custom-apps/virtual-cards-gifts/image-3.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+        },
+        {
+            "title":"Fly Your Flag",
+            "description":"Let your fans show off their allegiance by giving them a cool downloadable wallpaper for a certain athlete, team, celebrity, brand, product, cause, or destination.",
+            "image":"images/custom-apps/virtual-cards-gifts/image-4.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        }
+    ],
+    "footer":{
+        "prev":{
+            "text":"Instant Win",
+            "link":"#/p/customapps/instant-win"
+        },
+        "next":{
+            "text":"Gamification",
+            "link":"#/p/customapps/gamification"
+        }
+    }
+}

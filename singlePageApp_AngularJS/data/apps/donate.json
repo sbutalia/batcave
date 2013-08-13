@@ -1,0 +1,47 @@
+{
+    "large_icon": "/images/icons/large/apps-do-icon-75x75.png",
+    "title": "Donate",
+    "subtitle": "Raise funds for your favorite cause with this app on your Facebook Page.",
+    "install":{
+        "image_url":"images/apps/donate/apps-donate-top-image.jpg"
+    },
+    "video_url": "http://youtube.com/embed/wA1ZW8UD0_8?autoplay=1",
+    "bells_whistles":"Facebook fundraising made easy. Upload a large image communicating an overview of your cause with a strong call to action. Application flexibility lets you change the landing image, link, and message in seconds.",
+    "features":[
+        {
+            "title":"Traffic Control",
+            "description":"Control where your fans go next by linking them to other Facebook tabs or any URL on the web.",
+            "image":"images/apps/donate/apps-donate-image-1.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+
+        },
+        {
+            "title":"Easy Design",
+            "description":"Our Content Management System makes creating, editing, and updating your Facebook app simple. Easy editing tools let you change directions quickly - not holding you to your \"web guy's\" schedule.",
+            "image":"images/apps/donate/apps-donate-image-2.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        },
+        {
+            "title":"Share Management",
+            "description":"Every North Social app includes the ability to customize the image and messaging that gets posted to a user's wall when they share your Page.",
+            "image":"images/apps/donate/apps-donate-image-3.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+        }
+    ],
+    "footer":{
+        "prev":{
+            "text":"RSS Feed",
+            "link":"#/p/apps/rss-feed"
+        },
+        "next":{
+            "text":"Video Premier",
+            "link":"#/p/apps/video-premier"
+        }
+    }
+}

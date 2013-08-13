@@ -1,0 +1,47 @@
+{
+    "large_icon": "/images/icons/large/apps-pp-icon-75x75.png",
+    "title": "Partner Pages",
+    "subtitle": "Show off your partners, friends, clients, or family of brands with this useful app.",
+    "install":{
+        "image_url":"images/apps/partner-pages/apps-partner-page-top-image.jpg"
+    },
+    "video_url": "http://www.youtube.com/embed/?autoplay=1",
+    "bells_whistles":"Add links to other Fan Pages to keep visitors within your family of brands, or direct them to qualified partners as a favor.",
+    "features":[
+        {
+            "title":"Customizable Header",
+            "description":"An optional customizable and linkable header, turned on/off via the Content Management Panel, allows for important brand impressions.",
+            "image":"images/apps/partner-pages/apps-partner-pages-image-1.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+
+        },
+        {
+            "title":"Share Management",
+            "description":"Every North Social app includes the ability to customize the image and messaging that gets posted to a user's wall when they share your Page.",
+            "image":"images/apps/partner-pages/apps-partner-pages-image-2.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        },
+        {
+            "title":"Easy Design",
+            "description":"Our Content Management System makes creating, editing, and updating your Facebook app simple. Easy editing tools let you change directions quickly - not holding you to your \"web guy's\" schedule.",
+            "image":"images/apps/partner-pages/apps-partner-pages-image-3.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+        }
+    ],
+    "footer":{
+        "prev":{
+            "text":"Show & Sell",
+            "link":"#/p/apps/show-sell"
+        },
+        "next":{
+            "text":"Document Display",
+            "link":"#/p/apps/document-display"
+        }
+    }
+}

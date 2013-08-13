@@ -1,0 +1,55 @@
+{
+    "large_icon": "/images/icons/large/apps-ex-icon-75x75.png",
+    "title": "Exclusive",
+    "subtitle": "Create and launch a viral deal on your Facebook Page where you can set the number of registrations required to unlock a group discount.",
+    "install":{
+        "image_url":"images/apps/exclusive/apps-exclusive-top-image.jpg"
+    },
+    "video_url": "http://youtube.com/embed/5Rl2GaErBHQ?autoplay=1",
+    "bells_whistles":"Upload any digital file (Up to 10MB) of audio, video, document, or image which is \"unlocked\" when the user posts an admin designed \"update\" into their personal Facebook stream. Files are securely delivered via a rapidly expiring download link.",
+    "features":[
+        {
+            "title":"Get More Fans",
+            "description":"Our fan gate feature entices new viewers to \"Like\" your Page before they can interact with your apps. This can explosively drive up your fan count, giving you a larger audience to engage with in the future.",
+            "image":"images/apps/exclusive/apps-exclusive-image-1.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+
+        },
+        {
+            "title":"Share Management",
+            "description":"Every North Social app includes the ability to customize the image and messaging that gets posted to a user's wall when they share your Page.",
+            "image":"images/apps/exclusive/apps-exclusive-image-2.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        },
+        {
+            "title":"Download Delivery",
+            "description":"Download tracking lets you watch the real-time data so you can monitor your download's viral spread.",
+            "image":"images/apps/exclusive/apps-exclusive-image-3.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+        },
+        {
+            "title":"Traffic Control",
+            "description":"Control where your fans go next by linking them to other Facebook tabs or any URL on the web. Easy tracking allows you to effectively monitor campaigns and change directions as needed.",
+            "image":"images/apps/exclusive/apps-exclusive-image-4.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        }
+    ],
+    "footer":{
+        "prev":{
+            "text":"Deal Share",
+            "link":"#/p/apps/dealshare"
+        },
+        "next":{
+            "text":"Fan Offer",
+            "link":"#/p/apps/fan-coupon"
+        }
+    }
+}

@@ -1,0 +1,80 @@
+.header {
+	display: block;
+	background: url(../images/bg-nav.png) repeat-x top left;
+	-webkit-border-radius: 0px 0px 8px 8px;
+	border-radius: 0px 0px 8px 8px;
+	padding-bottom:20px;
+	width: 940px;
+	margin: 0px auto;
+	margin-bottom: 25px;
+}
+.footer {  
+   display: block;  
+   width: 940px;
+   color: #666666;
+   font-size: 14px;
+   line-height: 1em;
+   letter-spacing: 0px;
+   font-family: Arial;
+   font-weight: normal;
+   margin: 0px auto;
+   margin-bottom: 40px;
+}
+.footer ul {
+	margin: 0px;
+	padding: 0px;
+        float: right;
+        padding-right: 20px;
+}
+.footer ul li {
+	border-right:1px solid;
+	display:inline;
+	font-size:12px;
+	color:#666666;
+	font-family: arial;
+	font-weight:normal;
+        padding-right: 20px;
+}
+.footer ul li:last-child {
+	padding-right: 0px;
+	border:0;
+}
+.footer ul li a {
+	font-size:12px;
+	color:#666666;
+	font-family: arial;
+	text-decoration: none
+}
+.footer ul li a:hover {
+	color: #252525;
+}
+.app {
+    padding-top: 40px;
+}
+ul.app-list {
+    border: none;
+}
+ul.app-list li {
+    border: none;
+}
+.app .nav {
+	display: inline-block;
+	border-top: none;
+	float: none;
+	list-style-type: none;
+	margin-right:0px;
+	margin-top:0px;
+	padding: 0px;
+}
+.app .nav ul {
+	border-top: none;
+}
+.app .nav ul li {
+	margin-left: 0px;
+}
+.services h1 {
+padding: 45px;
+padding-bottom: 0px;
+margin-top: 40px;
+margin-left: 20px
+}

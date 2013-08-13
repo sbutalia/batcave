@@ -1,0 +1,55 @@
+{
+    "large_icon": "/images/icons/large/apps-in-icon-75x75.gif",
+    "title": "instagram",
+    "subtitle": "Showcase a selection of your finest filtered Instagram images directly on your Brand's Facebook Page.",
+    "install":{
+        "image_url":"images/apps/instagram/apps-instagram-app-top-image.jpg"
+    },
+    "video_url": "http://youtube.com/embed/sOA1TOz94D0?autoplay=1",
+    "bells_whistles":"Choose to feature images from a username or #hashtag, and showcase them beautifully in their high-res glory. Because Instagram has no web-interface, our unique integration allows you to get more milege out of your mobile-saavy fans when they get back to their desks.",
+    "features":[
+        {
+            "title":"Fan Gating",
+            "description":"Our fan gate feature entices new viewers to like your Page before they can interact with the app's content. This can explosively drive up your fan count, giving you a large audience to message, activate promotions, and push out must-have content to in the future.",
+            "image":"images/apps/instagram/apps-instagram-app-image-1.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+
+        },
+        {
+            "title":"Flexible Commenting",
+            "description":"The optional comments box encourages the chatter around your content, driving additional awareness and traffic to the Page. We added the ability to use native Facebook Comments or a 3rd party module from Disqus which gives you more flexibility to use this app for promotional purposes. Comments can also be turned off for a cleaner viewing experience.",
+            "image":"images/apps/instagram/apps-instagram-app-image-2.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        },
+        {
+            "title":"Customizable Sharing",
+            "description":"Every North Social app includes the ability to customize the image and messaging that gets posted to a user's wall when they share your Page. We also added the ability to customize the text on the share button to give you even more control.",
+            "image":"images/apps/instagram/apps-instagram-app-image-3.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+        },
+        {
+            "title":"Total Control",
+            "description":"An optional customizable and linkable header, turned on/off via the Content Management Panel, allows for important brand impressions. The addition of a custom text headline allows you to drive the point home.",
+            "image":"images/apps/instagram/apps-instagram-app-image-4.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        }
+    ],
+    "footer":{
+        "prev":{
+            "text":"Overview",
+            "link":"#/p/apps/overview"
+        },
+        "next":{
+            "text":"Iframe Editor",
+            "link":"#/p/apps/iframe-editor"
+        }
+    }
+}

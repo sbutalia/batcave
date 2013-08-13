@@ -1,0 +1,52 @@
+{
+    "title": "Voting Apps",
+    "subtitle": "Your page visitors want their voices to be heard, so activate a fun voting competion and let them choose what person, place, product, or cause deserves to be recognized.",
+    "image_splash": "images/custom-apps/voting-apps/client-example.jpg",
+    "intro_title":"Make Every Vote (And Brand Impression) Count",
+    "intro_description":"North Social can help you craft a viral voting competition that gives your fans a voice in the outcome, and rewards them for getting out the vote to their network.",
+    "features":[
+        {
+            "title":"Bracket Style Tournaments",
+            "description":"Whether you're holding a beauty contest or trying to find the \"it\" girl for your next magazine cover or photo shoot, we can build you a custom app that puts your brand and Facebook page at the center of attention.",
+            "image":"images/custom-apps/voting-apps/image-1.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+
+        },
+        {
+            "title":"Consumer Research",
+            "description":"Brands seeking a low-cost, high-impact way to mine quick consumer insights should look to activate a fun and engaging voting competition on their Facebook page. Excellent for getting a temperature check on new ideas or brand concepts.",
+            "image":"images/custom-apps/voting-apps/image-2.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        },
+        {
+            "title":"Smells Like School Spirit",
+            "description":"Quit crossing your fingers in hopes of getting an NCAA Tournament birth. Let our team help you launch a bracket voting competition to send your brand or school spirit viral.",
+            "image":"images/custom-apps/voting-apps/image-3.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+        },
+        {
+            "title":"Local Showdown",
+            "description":"Every town has a few can't miss places the locals all love. So create a viral voting competition to see which bartender, waiter, or barista wears the social crown in your community.",
+            "image":"images/custom-apps/voting-apps/image-4.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        }
+    ],
+    "footer":{
+        "prev":{
+            "text":"Trivia & Quiz",
+            "link":"#/p/customapps/trivia-quiz"
+        },
+        "next":{
+            "text":"Instant Win",
+            "link":"#/p/customapps/instant-win"
+        }
+    }
+}

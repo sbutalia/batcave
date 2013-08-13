@@ -1,0 +1,53 @@
+{
+    "title": "Track Everything",
+    "subtitle": "The key to improving your social media marketing lies in knowing what is working and what isn't. By measuring user actions across all your social platforms, Ngage will identify your social strengths and weaknesses.",
+    "video_title_number": "Demo Video (3 of 3)",
+    "video_urls": "http://player.vimeo.com/video/42586934?autoplay=1",
+    "intro_title":"If You Don't Keep Score, You Can't Tell Who's Winning.",
+    "intro_description":"In order understand how your social marketing is performing, it is essential that you track the results. By using Ngage for unified social publishing and campaign tagging (which enables tracking and analytics across multiple social media platforms) you can finally get a visual grip on how your social media efforts are performing. By adding Ngage conversion goals to your website or shopping cart, you can get a clear picture of what your social media powered sales look like right down to the penny.",
+    "features":[
+        {
+            "title":"Measure Fan Engagement",
+            "description":"A great high level metric of your social marketing efforts is fan response rates. Are they green and trending up over the last month, or have fans stopped responding to your posts? (hint: if your fans are all ignoring you, it might be time to try something new)",
+            "image":"images/ngage/analytics/analytics_1.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+
+        },
+        {
+            "title":"Social Campaign Metrics",
+            "description":"Each social campaign has different goals, different messages, and different response rates across various social platforms. With Ngage campaign metrics you can see exactly which posts, properties, and networks are contributing to the success (or failure) of any social campaign you run.",
+            "image":"images/ngage/analytics/analytics_2.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        },
+        {
+            "title":"Track Social Conversions",
+            "description":"Getting a bunch of likes on a post is great, converting those likes into cash is a whole new level of social media marketing. With Ngage's goal tracking pixels you can track social interactions across all of your web properties and see what sales come from social media.",
+            "image":"images/ngage/analytics/analytics_3.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+        },
+        {
+            "title":"Track Your Social ROI",
+            "description":"By adding a value to each goal (a static value you set, or a dynamic value based on the items in a shopping cart) you can pin point your exact social ROI.",
+            "image":"images/ngage/analytics/analytics_4.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        }
+    ],
+    "footer":{
+        "prev":{
+            "text":"Engagement",
+            "link":"#/p/analytics/engagement"
+        },
+        "next":{
+            "text":"Get In Touch",
+            "link":"#/p/pricing"
+        }
+    }
+}

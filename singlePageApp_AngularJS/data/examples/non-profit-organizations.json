@@ -1,0 +1,51 @@
+{
+    "title": "NonProfit Organizations",
+    "subtitle": "Chances are if you're a nonprofit marketer you could be doing much more to raise awareness, build momentum, and gain support for your cause or organization on Facebook. The good news? North Social has a bunch of tricks and tools up our sleeves to help socialize your fight.",
+    "image_splash": "images/examples/non-profit-organizations/examples-non-profits-client-example.jpg",
+    "insights_tips":"Just because you're a nonprofit doesn't mean you can't deploy many of the same smart social media tactics used by for-profit businesses. North Social has powerful apps for brand-building, signing up volunteers, inspiring donations, activating promotions, and keeping your cause or organization top of mind.",
+    "features":[
+        {
+            "title":"Educate The Uneducated",
+            "description":"Trying to wrangle support for your nonprofit by holding a clipboard at a farmer's market can be highly inefficient. Use apps like the Photo Showcase and Document Display to educate and inspire support for your cause social media style (i.e. more than one person at a time).",
+            "image":"images/examples/non-profit-organizations/examples-non-profits-image-1.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+
+        },
+        {
+            "title":"Socialize Fundraising",
+            "description":"Use our Donate app to rally support and fundraise directly from your Facebook Page. With outbound linking, you're able to send donors to a secure, 3rd party site of your choosing (Pay Pal, ActBlue, etc.).",
+            "image":"images/examples/non-profit-organizations/examples-non-profits-image-2.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        },
+        {
+            "title":"Spread the Word",
+            "description":"North Social apps can play a key role in motivating, engaging, and communicating with a larger grass roots based pool of friends and supporters. Every one of our apps has integrated share features, so your nonprofit can more effectively spread your important message.",
+            "image":"images/examples/non-profit-organizations/examples-non-profits-image-3.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+        },
+        {
+            "title":"Build Your List",
+            "description":"Use our Sign Up app to target prospective supporters and donors, urging them to join you in socializing your cause. Or use one of our Video apps to show this audience a motivating video about why they should get involved with your nonprofit.",
+            "image":"images/examples/non-profit-organizations/examples-non-profits-image-4.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        }
+    ],
+    "footer":{
+        "prev":{
+            "text":"Musicians / Bands",
+            "link":"#/p/examples/musicians-bands"
+        },
+        "next":{
+            "text":"Politics / Causes",
+            "link":"#/p/examples/politics-causes"
+        }
+    }
+}

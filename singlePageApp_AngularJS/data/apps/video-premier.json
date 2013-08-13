@@ -1,0 +1,55 @@
+{
+    "large_icon": "/images/icons/large/apps-vp-icon-75x75.png",
+    "title": "Video Premier",
+    "subtitle": "This app is perfect for showcasing the release of a great new video by displaying a single large format YouTube video on your Page.",
+    "install":{
+        "image_url":"images/apps/video-premiere/apps-video-premier-top-image.jpg"
+    },
+    "video_url": "http://youtube.com/embed/MkvBJ5bgJtY?autoplay=1",
+    "bells_whistles":"All this app needs is an I, to make it VIP. Otherwise this app is perfect for showcasing the release of a great new video. Displays a single large format video which creates an enhanced viewing experience for your visitors.",
+    "features":[
+        {
+            "title":"Get More Fans",
+            "description":"Our fan gate feature entices new viewers to \"like\" your Page before they can interact with your apps. This can explosively drive up your fan count, giving you a large audience to message, activate promotions, and push out must-have content to in the future.",
+            "image":"images/apps/video-premiere/apps-video-premier-image-1.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+
+        },
+        {
+            "title":"Customizable Header",
+            "description":"An optional customizable and linkable header, turned on/off via the Content Management Panel, allows for important brand impressions.",
+            "image":"images/apps/video-premiere/apps-video-premier-image-2.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        },
+        {
+            "title":"Share Management",
+            "description":"Every North Social app includes the ability to customize the image and messaging that gets posted to a user's wall when they share your Page.",
+            "image":"images/apps/video-premiere/apps-video-premier-image-3.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+        },
+        {
+            "title":"Commenting is Good",
+            "description":"Optional comments box encourages the chatter around your content, driving additional awareness and traffic to the Page. Comments can also be turned off for a cleaner viewing experience.",
+            "image":"images/apps/video-premiere/apps-video-premier-image-4.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        }
+    ],
+    "footer":{
+        "prev":{
+            "text":"Video Premier",
+            "link":"#/p/apps/video-premier"
+        },
+        "next":{
+            "text":"Twitter Feed",
+            "link":"#/p/apps/twitter-feed"
+        }
+    }
+}

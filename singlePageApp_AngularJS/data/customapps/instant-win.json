@@ -1,0 +1,52 @@
+{
+    "title": "Instant Win",
+    "subtitle": "Motivate your current and future brand evangelists by activating a fun and rewarding Instant Win promotional experience on your page.",
+    "image_splash": "images/custom-apps/instant-win/client-example.jpg",
+    "intro_title":"Your Fans Live In An Instant Gratification World...",
+    "intro_description":"So have your brand promotions satisfy their desire for speedy returns. Our Instant Win apps let your fans know immediately when they've won a prize, discount, or special offer.",
+    "features":[
+        {
+            "title":"Wheel of Deal",
+            "description":"People like discounts, but they love a chance at scoring even deeper ones. Keep your fans coming back (and engagement high) by giving them a shot at spinning their way to an amazing deal.",
+            "image":"images/custom-apps/instant-win/image-1.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+
+        },
+        {
+            "title":"Fortune Teller",
+            "description":"Launch a fortune-telling-like experience on your Facebook page with this instant predictor app (no stale cookie eating required).",
+            "image":"images/custom-apps/instant-win/image-2.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        },
+        {
+            "title":"Scratch And Win",
+            "description":"Let our team activate an addictive scratch-off experience for your brand just like the one in your local convenience store. Except this version doesn't leave a mess when played.",
+            "image":"images/custom-apps/instant-win/image-3.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+        },
+        {
+            "title":"Under The Cap",
+            "description":"Satisfy your fans' thirst for instant results by having our team craft an entertaining under the cap promotion for your brand. Rewards could include discounts, product, or exclusive content.",
+            "image":"images/custom-apps/instant-win/image-4.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        }
+    ],
+    "footer":{
+        "prev":{
+            "text":"Voting Apps",
+            "link":"#/p/customapps/voting-apps"
+        },
+        "next":{
+            "text":"Virtual Cards & Gifts",
+            "link":"#/p/customapps/virtual-cards-gifts"
+        }
+    }
+}

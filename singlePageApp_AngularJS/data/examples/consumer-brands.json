@@ -1,0 +1,51 @@
+{
+    "title": "Consumer Brands",
+    "subtitle": "Consumer, meet brand. Brand, meet consumer. Is there anything better than getting free introductions to new customers? North Social can show you how to take your brand from a \"liked\" one to a \"loved\" one.",
+    "image_splash": "images/examples/consumer-brands/examples-consumer-brands-client-example.jpg",
+    "insights_tips":"Facebook has fundamentally changed how consumers interact with brands. Before you can activate your full marketing strategy, you must first embrace the way your prospective buyers consume and share brand and product information.",
+    "features":[
+        {
+            "title":"Be More Inviting",
+            "description":"You've spent ample time and effort developing your brand's look, tone, and feel, so why do you have your new visitors landing on an ugly, word-filled wall? Direct them to a professionally-designed welcome mat using our First Impression app and convert those visitors into motivated and loyal fans.",
+            "image":"images/examples/consumer-brands/examples-consumer-brands-image-1.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+
+        },
+        {
+            "title":"Offer Up Value",
+            "description":"If Facebook marketing has taught us anything, it's that people respond to those brands that offer up VALUE. North Social has variety of apps which enable your brand to promote share-worthy coupon codes, sweepstakes, group deals, fan-only exclusives, and more.",
+            "image":"images/examples/consumer-brands/examples-consumer-brands-image-2.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        },
+        {
+            "title":"Show and Sell",
+            "description":"Let your fans browse and comment on your latest or seasonal products using our Photo Showcase and Show & Sell apps. Then drive them from your Page to your online store using an integrated Buy Button. Say hello to social commerce made easy.",
+            "image":"images/examples/consumer-brands/examples-consumer-brands-image-3.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+        },
+        {
+            "title":"Shut Up and Listen",
+            "description":"Thinking of launching a new product or brand extension? North Social apps can be used to draw upon the collective wisdom of your fanbase to identify new innovative directions for your business. Before you potentially waste thousands of dollars on traditional market research, try this; ask, sit back, and listen.",
+            "image":"images/examples/consumer-brands/examples-consumer-brands-image-4.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        }
+    ],
+    "footer":{
+        "prev":{
+            "text":"Celebrity",
+            "link":"#/p/examples/celebrity"
+        },
+        "next":{
+            "text":"Education",
+            "link":"#/p/examples/education"
+        }
+    }
+}

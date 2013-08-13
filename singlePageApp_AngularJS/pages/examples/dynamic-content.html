@@ -1,0 +1,31 @@
+<div class="the-content">
+    <section>
+        <!-- app details starts-->
+        <h1>{{pageData.title}}</h1>
+        <p>{{pageData.subtitle}}</p>
+        <p class="text-right"><a herf="#" class="btn-ns-get">Pricing & Planning</a></p>
+        <hr size="1"/>
+        <h2>User Examples</h2>
+        <div class="example-client"><img ng-src="{{pageData.image_splash}}"/></div>
+        <h2>Insights & Tips</h2>
+        <p>{{pageData.insights_tips}}</p>
+        <hr size="1"/>
+
+
+        <div class="row-fluid" ng-repeat="feature in pageData.features" >
+            <div class="span6 {{feature.text_box_css}}">
+                <h2 class="{{feature.text_box_inner_css}}">{{feature.title}}</h2>
+                <p class="{{feature.text_box_inner_css}}" ng-bind-html-unsafe="feature.description"></p>
+            </div>
+            <div class="span6 {{feature.image_box_css}}"><img ng-src="{{feature.image}}"/></div>
+            <div class="clear"></div>
+            <hr size="1"/>
+        </div>
+
+        <div class="row-fluid">
+            <div class="span6 pad-me"><div class="prev"><a href="{{pageData.footer.prev.link}}">{{pageData.footer.prev.text}}</a></div></div>
+            <div class="span6"><div class="next"><a href="{{pageData.footer.next.link}}">{{pageData.footer.next.text}}</a></div></div>
+        </div>
+
+    </section>
+</div>

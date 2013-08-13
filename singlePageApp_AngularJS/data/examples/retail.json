@@ -1,0 +1,51 @@
+{
+    "title": "Retail",
+    "subtitle": "Studies show that a positive referral from a Facebook friend makes a consumer more likely to buy a specific product or visit a certain retailer. Listen up. If you haven't already figured it out, the retailers who are actively marketing their products and services using a custom Facebook Page have a distinct advantage over their competitors.",
+    "image_splash": "images/examples/retail/examples-retail-client-example.jpg",
+    "insights_tips":"If you have a retail storefront of any kind - high end or low end, online or off, the time is now for dialing up your Facebook presence. But don't be fooled, just because social media is a new medium doesn't mean the basic principles of marketing have vanished. Customer's still respond to a D-E-A-L.",
+    "features":[
+        {
+            "title":"Hang Online Signage",
+            "description":"You've probably spent a lot of time thinking through the identity of your offline retail space, so why would you drop the ball when it comes to presenting your brand on Facebook? Integrate your brand's look, tone, and feel in a snap with any of our apps.",
+            "image":"images/examples/retail/examples-retail-image-1.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+
+        },
+        {
+            "title":"Show and Sell",
+            "description":"Make it easy for your fans to browse and comment on your latest or seasonal products using our Photo Showcase and Show & Sell apps. Then drive them from your Page to your online store using an integrated Buy Button. Remember, Facebook users respond to offers (especially ones that are unique to them).",
+            "image":"images/examples/retail/examples-retail-image-2.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        },
+        {
+            "title":"Sweep 'Em Up",
+            "description":"Our Sweepstakes app has been wearing out Facebook's \"Like\" button for some time now. If you're looking for an excellent way to ramp your fan count and get people to engage with your retail brand, activate a motivating sweepstakes and leave your competitors scratching their heads.",
+            "image":"images/examples/retail/examples-retail-image-3.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+        },
+        {
+            "title":"Get Insightful Feedback",
+            "description":"Use our apps to tap into the most effective marketing research weapon in your arsenal - feedback from your consumers. Thinking of launching a new product or carrying a new line? Draw upon the collective wisdom of your fanbase to identify new innovative directions for your business.",
+            "image":"images/examples/retail/examples-retail-image-4.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        }
+    ],
+    "footer":{
+        "prev":{
+            "text":"Restaurant / Bar",
+            "link":"#/p/examples/restaurant-bar"
+        },
+        "next":{
+            "text":"Service Providers",
+            "link":"#/p/examples/service-providers"
+        }
+    }
+}

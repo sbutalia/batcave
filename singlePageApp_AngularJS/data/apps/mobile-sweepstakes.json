@@ -1,0 +1,47 @@
+{
+    "large_icon": "/images/icons/large/apps-MOBILE-sw-icon-75x75.jpg",
+    "title": "Mobile Sweepstakes",
+    "subtitle": "Engage your on the go customers with this mobile + social contest app.",
+    "install":{
+        "image_url":"images/apps/mobile-sweepstakes/mobile-sweeps-top-image.jpg"
+    },
+    "video_url": "http://www.youtube.com/embed/TzBh9WHTyo0?autoplay=1",
+    "bells_whistles":"The mobile sweepstakes app makes it a snap to design and deploy a promotion that works seamlessly across both mobile devices and desktop browsers. This mobile app allows you to run an effective promotion across all social networks and browsers.",
+    "features":[
+        {
+            "title":"Be Everywhere",
+            "description":"This mobile sweeps app helps brands take advantage of all possible consumer touch points from online to offline.",
+            "image":"images/apps/mobile-sweepstakes/mobile-sweeps-image-1.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+
+        },
+        {
+            "title":"Custom (Secure) Entry Forms",
+            "description":"Capture your customers interest and excitement with fully customizeable entry forms and a secure entry management and instant response (email) system. Custom entry form creation is included with all mobile apps.",
+            "image":"images/apps/mobile-sweepstakes/mobile-sweeps-image-2.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        },
+        {
+            "title":"Social Diversity",
+            "description":"This app enables brands to publish and promote their contest or sweepstakes across multiple social networks with a single set up, and a single location for entry management.",
+            "image":"images/apps/mobile-sweepstakes/mobile-sweeps-image-3.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+        }
+    ],
+    "footer":{
+        "prev":{
+            "text":"Overview",
+            "link":"#/p/apps/overview"
+        },
+        "next":{
+            "text":"Mobile Coupon",
+            "link":"#/p/apps/mobile-coupon"
+        }
+    }
+}

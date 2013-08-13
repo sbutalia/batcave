@@ -1,0 +1,52 @@
+{
+    "title": "Photo Contest",
+    "subtitle": "Launch an entertaining user-generated photo contest on your brand's page and watch your fan growth and engagement take flight.",
+    "image_splash": "images/custom-apps/photo-contest/client-example.jpg",
+    "intro_title":"The Best Photo Contest On Facebook. Period.",
+    "intro_description":"Use our powerful photo contest app to generate massive viral growth and awareness for your brand, product or cause. Short on ideas? Tap our team to concept and develop a memorable promotion to support your brand's business objectives.",
+    "features":[
+        {
+            "title":"Spot The Brand Contest",
+            "description":"Turn your fan base into camera phone-wielding paparazzi by rewarding them for shooting and uploading photos of your brand or product in action.",
+            "image":"images/custom-apps/photo-contest/image-1.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+
+        },
+        {
+            "title":"Discover New Talent",
+            "description":"Whether you're looking for the new face of your brand or a beautiful shot of a sunset, your fan base is full of talent that can make your marketing programs shine. Don't settle for thumb-clicking spectators, get your fans to participate.",
+            "image":"images/custom-apps/photo-contest/image-2.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        },
+        {
+            "title":"Pet Pose Down",
+            "description":"Psst...this just in, people love to share photos of their cuddly friends. Use our UGC photo contest app to activate a pet-focused beauty pageant on your page and add some bark to your \"talking about this\" stats.",
+            "image":"images/custom-apps/photo-contest/image-3.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+        },
+        {
+            "title":"From Fan To Famous",
+            "description":"Everyone fantasizes about being famous at least once. So tap into your fan's desire to earn their 15 minutes by allowing them to post pics of themselves using your product or showing off the results they got from your services.",
+            "image":"images/custom-apps/photo-contest/image-4.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        }
+    ],
+    "footer":{
+        "prev":{
+            "text":"Overview",
+            "link":"#/p/customapps/overview"
+        },
+        "next":{
+            "text":"Video Contest",
+            "link":"#/p/customapps/video-contest"
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "title": "Cover Photo Creator",
+    "subtitle": "Empower your fans to help promote the launch of your new product or brand campaign by creating a compelling cover photo experience.",
+    "image_splash": "images/custom-apps/cover-photo-creator/client-example.jpg",
+    "intro_title":"Serve Up An Experience. Let Your Fans Do The Broadcasting.",
+    "intro_description":"Use this powerful custom app to turn regular fans into powerful brand evangelists by making it easy for them to create and publish branded cover photos at the top of their Facebook profile.",
+    "features":[
+        {
+            "title":"Build A Movement",
+            "description":"Use this app to generate support for a campaign, cause, or an event by using your fan base and their valuable cover photo real estate as a virtual billboard.",
+            "image":"images/custom-apps/cover-photo-creator/image-1.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+
+        },
+        {
+            "title":"Introduce New Products",
+            "description":"Premiering a new flavor, video game, song, television show, or feature film? Create a series of exclusive branded cover photos and rally your fan base to spread the word about your upcoming launch.",
+            "image":"images/custom-apps/cover-photo-creator/image-2.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        },
+        {
+            "title":"Virtual Cut-Out",
+            "description":"Let your fans create a fun, personalized cover photo using your brand's promotional materials and upload it for their personal connections to see.",
+            "image":"images/custom-apps/cover-photo-creator/image-3.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+        }
+    ],
+    "footer":{
+        "prev":{
+            "text":"Gamification",
+            "link":"#/p/customapps/gamification"
+        },
+        "next":{
+            "text":"Exclusive",
+            "link":"#/p/pricing"
+        }
+    }
+}

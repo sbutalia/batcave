@@ -1,0 +1,51 @@
+{
+    "title": "Authors / Publishers",
+    "subtitle": "Paper books haven't quite gone the way of cassette and VCR tapes, but the publishing industry has certainly shifted. There is no fine print to interpret here; the authors and publishers who embrace social media marketing and digital distribution will flourish, and sadly those who don't will perish.",
+    "image_splash": "images/examples/authors-publishers/examples-authors-publishers-client-example.jpg",
+    "insights_tips":"Leave the suspense up to your writing, not your marketing launch plan. Use our content creator-friendly apps so you can add more features and functionality to your Facebook Page, helping you gain more of an online following for your writing (and leaving your literary agent speechless).",
+    "features":[
+        {
+            "title":"Share Some Words",
+            "description":"One of the most effective tools for connecting with a large pool of potential readers (and buyers) in the digital world is sampling. Use a number of our apps to whet your fans' appetities by offering up a free chapter or snippets of your informative and entertaining prose.",
+            "image":"images/examples/authors-publishers/examples-authors-publishers-image-1.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+
+        },
+        {
+            "title":"Create More Buzz",
+            "description":"Have an upcoming release, book signing, or planning a speaking tour? Generate momentum for all your book marketing initiatives with North Social's viral tools and watch your fan count and email list grow.",
+            "image":"images/examples/authors-publishers/examples-authors-publishers-image-2.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        },
+        {
+            "title":"Sell More Books",
+            "description":"Two of North Social's powerful apps come standard with an optional \"Buy Now\" button which can link your fans directly to an online store for purchase. You can also activate a Deal Share to kick start your campaign (or push old inventory to make room for the next release).",
+            "image":"images/examples/authors-publishers/examples-authors-publishers-image-3.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+        },
+        {
+            "title":"Meet The Author",
+            "description":"Let your fans get to know you beyond your dust jacket bio. Our apps give you more space for featuring a deeper bio, author testimonials, book reviews, and other compelling information. What are you reading? I bet your fans want to know...",
+            "image":"images/examples/authors-publishers/examples-authors-publishers-image-4.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        }
+    ],
+    "footer":{
+        "prev":{
+            "text":"Agencies",
+            "link":"#/p/examples/agencies"
+        },
+        "next":{
+            "text":"Business To Business",
+            "link":"#/p/examples/business-to-business"
+        }
+    }
+}

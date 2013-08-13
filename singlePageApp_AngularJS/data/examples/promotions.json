@@ -1,0 +1,51 @@
+{
+    "title": "Promotions",
+    "subtitle": "Facebook provides one of the most fertile grounds for planting promotions because the tools for spreading the word are built in to every offer that you put together. Use our apps to give yourself a great one-two promotional punch for both adding fans to your Page (require users to \"Like\" the Page to access the promo) AND to push out great content that drives users to deepen their interaction with your brand.",
+    "image_splash": "images/examples/promotions/examples-promotions-client-example.jpg",
+    "insights_tips":"Promotions can range from simple coupons to huge sweepstakes. When crafting your promotional strategy, it's always a good idea to create a balance between big ticket prizes and simple small rewards. Oh, do yourself a favor and keep the promotion on brand too (wouldn't be strategic for your clean tech brand to give away a new Hummer).",
+    "features":[
+        {
+            "title":"Straight Up Simple",
+            "description":"It can be tempting to create a complex promotion that tries to make the entrants feel like they just unraveled the Da Vinci Code. Skip the mystery and make sure your visitors know exactly what they are in for by making the promotion (and entry process) clear, concise, and as simple as possible.",
+            "image":"images/examples/promotions/examples-promotions-image-1.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+
+        },
+        {
+            "title":"Skip The Lottery Ticket",
+            "description":"While big brands can give away huge prizes and bags of cash, material rewards aren't a requirement for social promotions to succeed. Get creative and think up some prizes that are attractive to your target customer. Maybe it's an experience they are after instead of a suitcase full of jewels.",
+            "image":"images/examples/promotions/examples-promotions-image-2.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        },
+        {
+            "title":"Make It Share-Worthy",
+            "description":"Facebook is a remarkable platform made of millions of personal connections. Create a promotion that is worth sharing (or give users an incentive to share), and you'll soon discover just how far your brand, products, and services can reach.",
+            "image":"images/examples/promotions/examples-promotions-image-3.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+        },
+        {
+            "title":"Follow Through",
+            "description":"Facebook promotions are well, social. So don't treat the users who engage with your brand with any less respect than you would give your closest friends. Ignore your new fans and they'll find someone else to hang out with. Follow up, deliver the goods, and be sure to execute the back half of the promotion as well as you promote the front end.",
+            "image":"images/examples/promotions/examples-promotions-image-4.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        }
+    ],
+    "footer":{
+        "prev":{
+            "text":"Fan Growth",
+            "link":"#/p/apps/fan-growth"
+        },
+        "next":{
+            "text":"Grow Sales",
+            "link":"#/p/examples/grow-sales"
+        }
+    }
+}

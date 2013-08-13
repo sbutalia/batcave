@@ -1,0 +1,51 @@
+{
+    "title": "Transportation",
+    "subtitle": "Before booking a seat or purchasing a set of wheels, consumers turn to the Internet to do their research, find the best price, check availability, browse customer reviews, and discover any other insightful information which will help guide their purchase decision. Maximize the reach and conversion of your brand by building a custom Facebook Page to support your potential customers buying process.",
+    "image_splash": "images/examples/transportation/examples-transportation-client-example.jpg",
+    "insights_tips":"Whether your brand or business sells transport by air, rail, road, water, or space, your passengers are on Facebook just waiting for you to give them helpful direction. Lost? Let North Social show you the way. Our versatile suite of applications allow any transportation brand to activate low cost, high impact social media marketing and promotional strategies.",
+    "features":[
+        {
+            "title":"Socialize Better Fares",
+            "description":"If you have empty seats to fill, ramp up your fan count (and revenue) by promoting a discount or activating a group deal on airfare, rental cars, cruises, and more to those visitors that \"Like\" your Page.",
+            "image":"images/examples/transportation/examples-transportation-image-1.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+
+        },
+        {
+            "title":"Play 'Em Forward",
+            "description":"Capture the hearts, minds, ears, and eyes of your prospective customers and get them one step closer to pulling out their wallets by visually showcasing the key features and benefits of your product or service using one of North Social's powerful video apps.",
+            "image":"images/examples/transportation/examples-transportation-image-2.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        },
+        {
+            "title":"Never Miss A Connection",
+            "description":"Our powerful CRM tools make customer info collection, management, and ongoing messaging a breeze. Simple subscriber targeting and list segments enable you to easily send the right message to the right traveler every time.",
+            "image":"images/examples/transportation/examples-transportation-image-3.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+        },
+        {
+            "title":"Inspire Test Drives",
+            "description":"Has your dealership just gotten some new inventory? Use our Photo Showcase app to show off your wheels on Facebook using a motivating slider complete with built-in share functionality. Now maybe you won't be the only one walking the lot on the weekend.",
+            "image":"images/examples/transportation/examples-transportation-image-4.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        }
+    ],
+    "footer":{
+        "prev":{
+            "text":"Technology",
+            "link":"#/p/examples/technology"
+        },
+        "next":{
+            "text":"Exclusive",
+            "link":"#/p/pricing"
+        }
+    }
+}

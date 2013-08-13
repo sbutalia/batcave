@@ -1,0 +1,51 @@
+{
+    "title": "Health / Fitness",
+    "subtitle": "Consumers are constantly searching on the Internet (and asking friends) for how they can lead a healthier lifestyle. So jump in and build a feature-rich Facebook Page to connect with and inspire this information-hungry audience and educate them on how you can put them on the right path.",
+    "image_splash": "images/examples/health-fitness/examples-health-fitness-client-example.jpg",
+    "insights_tips":"Whether you or your company helps people eat better, exercise more frequently, or just stay more in tune with their body, you should create a custom Facebook Page to attract new customers, give out advice, and promote your wellness products and services.",
+    "features":[
+        {
+            "title":"Strengthen Your Core",
+            "description":"While activating one-off Facebook marketing tactics may generate short-term results for your business, take care of your brand first (your aspirational look, tone, and feel) and your Page will be equipped to connect and motivate for the long haul.",
+            "image":"images/examples/health-fitness/examples-health-fitness-image-1.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+
+        },
+        {
+            "title":"Drive Sales",
+            "description":"Use our Fan Offer or Sign Up apps to post a Facebook-only special. Remember, it's a lot easier to lead them to purchase through a trial than asking for a sale the first time you meet them. First class free? 3 months for the price of two? New Year's resolution special?",
+            "image":"images/examples/health-fitness/examples-health-fitness-image-2.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        },
+        {
+            "title":"Flex Your Expertise",
+            "description":"Chances are that you're already sharing healthy living tips on your company blog. Now socialize your health & fitness expertise even more by using North Social apps for blog, whitepaper, or case study distribution. If you have quality video content, put it on display using our Video apps.",
+            "image":"images/examples/health-fitness/examples-health-fitness-image-3.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+        },
+        {
+            "title":"Cross Promote",
+            "description":"When trying to grow your Facebook presence, don't forget about involving your strategic partners (equipment manufacturers or training facilities). Our suite of apps can also be installed on their Pages, letting you cross-promote to even more ears and eyeballs.",
+            "image":"images/examples/health-fitness/examples-health-fitness-image-4.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        }
+    ],
+    "footer":{
+        "prev":{
+            "text":"Food / Beverage",
+            "link":"#/p/examples/food-beverage"
+        },
+        "next":{
+            "text":"Hotels / Lodging",
+            "link":"#/p/examples/hotels-lodging"
+        }
+    }
+}

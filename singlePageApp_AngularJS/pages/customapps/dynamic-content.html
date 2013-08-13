@@ -1,0 +1,38 @@
+<!--the main section starts -->
+<div class="the-content"><section class="custom-apps">
+    <!-- app details starts-->
+    <div class="row-fluid">
+        <div class="span8 app-info">
+            <h1>{{pageData.title}}</h1>
+            <p>{{pageData.subtitle}}</p>
+        </div>
+        <div class="span3 example-install pull-right">
+            <p>Need a custom app? Let's talk shop.</p>
+            <div class="center-me-btn-custom-apps"><a href="#" class="btn-ns">Install This App</a></div>
+        </div>
+    </div>
+    <!--example starts-->
+    <h2>Client Example</h2>
+    <div class="example-client"><img ng-src="{{pageData.image_splash}}"/></div>
+    <!--example ends-->
+    <h2>{{pageData.intro_title}}</h2>
+    <p>{{pageData.intro_description}}</p>
+    <hr size="1"/>
+
+
+    <div class="row-fluid" ng-repeat="feature in pageData.features" >
+        <div class="span6 {{feature.text_box_css}}">
+            <h2 class="{{feature.text_box_inner_css}}">{{feature.title}}</h2>
+            <p class="{{feature.text_box_inner_css}}" ng-bind-html-unsafe="feature.description"></p>
+        </div>
+        <div class="span6 {{feature.image_box_css}}"><img ng-src="{{feature.image}}"/></div>
+        <div class="clear"></div>
+        <hr size="1"/>
+    </div>
+
+    <div class="row-fluid">
+        <div class="span6 pad-me"><div class="prev"><a href="{{pageData.footer.prev.link}}">{{pageData.footer.prev.text}}</a></div></div>
+        <div class="span6"><div class="next"><a href="{{pageData.footer.next.link}}">{{pageData.footer.next.text}}</a></div></div>
+    </div>
+
+</section></div>

@@ -1,0 +1,54 @@
+{
+    "title": "Pixel Perfect Fan Pages",
+    "subtitle": "From start to finish our team will design and deliver the ideal Fan Page experience for your brand.",
+    "image_splash": "images/services/fan-page-design/fan-page-design.jpg",
+    "sub_info_001" : "<h1>Page Strategy</h1><p>We'll design a fan page strategy based on your unique business goals (fans, engagement, or conversions).</p>",
+    "sub_info_002" : "<h1>App Selection</h1><p>We will create the optimal fan experience with the right apps in the right place for maximum impact.</p>",
+    "sub_info_003" : "<h1>Graphic Design</h1><p>Our team of designers will create the perfect page experience right down to the very last pixel.</p>",
+    "sub_info_004" : "<h1>Launch & Support</h1><p>Your custom page runs on our highly scalable app platform which ensures maximum uptime.</p>",
+    "features":[
+        {
+            "title":"Page Strategy",
+            "description":"Our team of social planners will help set the direction and goals for your Fan Page in order to create the optimal consumer experience.",
+            "image":"images/services/fan-page-design/services-custom-page-design-image-1.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+
+        },
+        {
+            "title":"App Selection",
+            "description":"We'll help select the right apps for your page to maximize your social returns by centering each user interaction around a desired outcome, from lead generation to brand engagement.",
+            "image":"images/services/fan-page-design/services-custom-page-design-image-2.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        },
+        {
+            "title":"Graphic Design",
+            "description":"From the profile pic to the last pixel on every tab, our team of designers work to create a powerful visual experience that accurately reflects your brand's look, tone, and feel.",
+            "image":"images/services/fan-page-design/services-custom-page-design-image-3.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+        },
+        {
+            "title":"Launch & Support",
+            "description":"The end goal of every client engagement is to launch a great custom Fan Page. From start to finish, we'll be there every step of the way.",
+            "image":"images/services/fan-page-design/services-custom-page-design-image-4.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        }
+    ],
+    "footer":{
+        "prev":{
+            "text":"Sweepstakes",
+            "link":"#/p/apps/sweepstakes"
+        },
+        "next":{
+            "text":"Exclusive",
+            "link":"#/p/apps/exclusive"
+        }
+    }
+}

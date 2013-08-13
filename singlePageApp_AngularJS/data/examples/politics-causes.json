@@ -1,0 +1,51 @@
+{
+    "title": "Politics / Causes",
+    "subtitle": "North Social apps enable every candidate and organization to more effectively communicate their message as well as organize, grow, and motivate their base of supporters directly from their Facebook Page. Think of your Page as your digital campaign headquarters. The more active it is, the more change you'll inspire.",
+    "image_splash": "images/examples/politics-causes/examples-politics-causes-client-example.jpg",
+    "insights_tips":"Remember, before you can activate a Get Out The Vote strategy, you must first embrace the way your prospective voters consume and share information. Below are just a of the few ways you can kickstart your campaign or cause using North Social apps.",
+    "features":[
+        {
+            "title":"Inspire Your Base",
+            "description":"Facebook can play a key role in motivating, engaging, and communicating with a larger grass roots based pool of friends and supporters. North Social apps enable every candidate and organization to more effectively communicate their message.",
+            "image":"images/examples/politics-causes/examples-politics-causes-image-1.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+
+        },
+        {
+            "title":"Provide Incentives",
+            "description":"Inspire fans to vote or support a cause by offering a strong incentive. With our Show & Sell app you can now Integrate your campaign store into your Facebook Page so you can sell (or giveaway) t-shirts, hats, buttons, bumper stickers, and more.",
+            "image":"images/examples/politics-causes/examples-politics-causes-image-2.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        },
+        {
+            "title":"Socialize Fundraising",
+            "description":"Use our Donate app to fund raise directly from your Facebook Page. With outbound linking, you're able to send donors to a secure, 3rd party site of your choosing (Pay Pal, ActBlue, etc.).",
+            "image":"images/examples/politics-causes/examples-politics-causes-image-3.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+        },
+        {
+            "title":"Let 'em Participate",
+            "description":"Our apps have integrated commenting features which make it easy for visitors, voters, and supporters to discuss and debate the issues and topics that matter most to them. Remember, being social is about having two-way conversations with your followers.",
+            "image":"images/examples/politics-causes/examples-politics-causes-image-4.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        }
+    ],
+    "footer":{
+        "prev":{
+            "text":"Nonprofit Organizations",
+            "link":"#/p/examples/non-profit-organizations"
+        },
+        "next":{
+            "text":"Real Estate",
+            "link":"#/p/examples/real-estate"
+        }
+    }
+}

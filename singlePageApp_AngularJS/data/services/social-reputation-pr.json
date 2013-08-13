@@ -1,0 +1,54 @@
+{
+    "title": "Social Media Is The New PR",
+    "subtitle": "We help brands, candidates, ballot initiatives, and other non profit organizations use social media to create fans, followers, and mindshare.",
+    "image_splash": "images/services/social-reputation-pr/social-reputation-pr.jpg",
+    "sub_info_001" : "<h1>Craft The Message</h1><p>We'll help shape the social conversation around your message with a sound social publishing strategy.</p>",
+    "sub_info_002" : "<h1>Create Conversations</h1><p>We help deploy simple techniques and tools that help get social conversations started.</p>",
+    "sub_info_003" : "<h1>Spread The Word</h1><p>Social media is the ideal platform to spread your message far and wide, we'll show you how.</p>",
+    "sub_info_004" : "<h1>Build Grassroots</h1><p>Facebook is ideal for starting and nurturing your grassroots campaign.</p>",
+    "features":[
+        {
+            "title":"Craft The Message",
+            "description":"Social media is where people connect and share information. Tap into this powerful new platform to deliver the right message to the right audience.",
+            "image":"images/services/social-reputation-pr/services-social-reputation-pr-image-1.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+
+        },
+        {
+            "title":"Create Conversations",
+            "description":"Framing the conversation is a big part of how each issue or topic is discussed. Get ahead of the curve by creating social conversations and shaping the dialog. Act, don't just react.",
+            "image":"images/services/social-reputation-pr/services-social-reputation-pr-image-2.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        },
+        {
+            "title":"Spread The Word",
+            "description":"Never before has there been a way for information to travel faster and further. By using the most powerful (and viewed) social media platforms we can help get your message heard... and repeated.",
+            "image":"images/services/social-reputation-pr/services-social-reputation-pr-image-3.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+        },
+        {
+            "title":"Build Grassroots",
+            "description":"Social is local. Grow your following and build an army of supporters through social media. Not sure how? Drop us a note.",
+            "image":"images/services/social-reputation-pr/services-social-reputation-pr-image-4.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        }
+    ],
+    "footer":{
+        "prev":{
+            "text":"Sweepstakes",
+            "link":"#/p/apps/sweepstakes"
+        },
+        "next":{
+            "text":"Exclusive",
+            "link":"#/p/apps/exclusive"
+        }
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "title": "Apps For 50 to 500,000 Pages",
+    "subtitle": "We help large brands and agencies with the tools they need to quickly grow their social business.",
+    "image_splash": "images/services/multi-page-licensing/multi-page-licensing.jpg",
+    "sub_info_001" : "<h1>Simplicity Sells</h1><p>Whether you are doing it for them, or handing off the wheel, our easy to use apps make your business scale faster.</p>",
+    "sub_info_002" : "<h1>More Margin</h1><p>Our bulk pricing breaks give you the best possible margin for your business.</p>",
+    "sub_info_003" : "<h1>More Apps</h1><p>Each user account unlocks a huge catalog of apps which provides your users with more value and flexibility.</p>",
+    "sub_info_004" : "<h1>Enhanced Support</h1><p>We can provide either frontline or second line support depending on your needs.</p>",
+    "features":[
+        {
+            "title":"Simplicity Sells (more)",
+            "description":"You're looking to ramp up a large pool of pages, the last thing you need is a highly complex system that confuses your customers or your staff. Our library of easy to use apps delivers results without a PhD (or coding skill) requirement.",
+            "image":"images/services/multi-page-licensing/services-platform-licensing-image-1.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+
+        },
+        {
+            "title":"Make More Margin",
+            "description":"Picking the right partner for your Fan Page business is important. We enable over 1,000 agencies and service providers to maximize their financial return from offering social media marketing solutions.",
+            "image":"images/services/multi-page-licensing/services-platform-licensing-image-2.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        },
+        {
+            "title":"For Large App-etites",
+            "description":"Each authorized page unlocks all the North Social apps in the suite. New apps are released frequently which automatically get added to the app buffet for your consumption.",
+            "image":"images/services/multi-page-licensing/services-platform-licensing-image-3.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+        },
+        {
+            "title":"Rockstar Treatment",
+            "description":"North Social Enterprise users get enhanced support access for faster resolution for any questions you may have. Think of it as skipping the line at the club.",
+            "image":"images/services/multi-page-licensing/services-platform-licensing-image-4.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        }
+    ],
+    "footer":{
+        "prev":{
+            "text":"Sweepstakes",
+            "link":"#/p/apps/sweepstakes"
+        },
+        "next":{
+            "text":"Exclusive",
+            "link":"#/p/apps/exclusive"
+        }
+    }
+}

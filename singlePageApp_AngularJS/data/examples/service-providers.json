@@ -1,0 +1,51 @@
+{
+    "title": "Service Providers",
+    "subtitle": "When hiring a service provider, people look for the three-headed motivator; quality workmanship, good service, and affordable pricing. To seek this out, they often turn to the Internet or a friend for a referral. So make sure you're maximizing your Facebook Page and giving your services the best shot at going social (and separating yourself from your competition).",
+    "image_splash": "images/examples/service-providers/examples-service-providers-client-example.jpg",
+    "insights_tips":"North Social delivers a flexible suite of applications so you can activate plenty of low cost, high impact social media marketing strategies. So whether you're a plumber, electrician, contractor, or any other regional service provider trying to grow your reach & customer base, let us point your brand in the right direction.",
+    "features":[
+        {
+            "title":"Make Your Mark",
+            "description":"Sometimes it's just about activating the brilliant basics. Step 1: create your Facebook Page. Step 2: use our First Impression app to create an inviting welcome mat for your brand. And don’t forget to give out your physical address, your phone number, and and even a price list for the services you offer either.",
+            "image":"images/examples/service-providers/examples-service-providers-image-1.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+
+        },
+        {
+            "title":"Generate Leads",
+            "description":"Don't just put up a Facebook Page and cross your fingers. Use powerful tools like our Sign Up app so you can more effectively service and retain your current customers as well as harvest new prospects.",
+            "image":"images/examples/service-providers/examples-service-providers-image-2.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        },
+        {
+            "title":"Drop Some Knowledge",
+            "description":"Have a tip on how to fix a leaky faucet or caulk a tub? Use apps like our Document Display or Video Channel app with built-in share features to publish useful information to draw more visitors to your Page.",
+            "image":"images/examples/service-providers/examples-service-providers-image-3.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+        },
+        {
+            "title":"Promote Specials",
+            "description":"If Facebook and their pervasive \"Like\" button has taught us anything, it's that people love saving money. Use our apps to activate a seasonal special, post a coupon code, or socialize a group deal for your services.",
+            "image":"images/examples/service-providers/examples-service-providers-image-4.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        }
+    ],
+    "footer":{
+        "prev":{
+            "text":"Retail",
+            "link":"#/p/examples/retail"
+        },
+        "next":{
+            "text":"Small Business",
+            "link":"#/p/examples/small-business"
+        }
+    }
+}

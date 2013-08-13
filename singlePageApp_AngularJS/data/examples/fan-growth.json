@@ -1,0 +1,51 @@
+{
+    "title": "Fan Growth",
+    "subtitle": "The cornerstone of your Facebook marketing efforts will likely center around growing the number of fans for your Page. Experience shows that simple actionable offers which provide users benefits (both short and long term) from clicking \"Like\" pay off with speedier fan growth.",
+    "image_splash": "images/examples/fan-growth/examples-fan-growth-client-example.jpg",
+    "insights_tips":"We're big believers in the old mantra \"keep it simple\" when it comes to growing your fan count. That's why most of our applications allow Page Admins to turn on a \"fan only\" feature which requires users to click \"Like\" before they can access your content, offer, or deal. By applying basic fan-gating fundamentals, you will give your Page the best shot at achieving maximum fan growth.",
+    "features":[
+        {
+            "title":"Instant Gratification",
+            "description":"Remember, people follow (and share) brands that are current, entertaining, informative, and above all, one's that provide value back. So \"fan gate\" your Page and reward visitors with a coupon code, special offer, or fan-only content. This sort of instant payoff will help earn their trust and loyalty.",
+            "image":"images/examples/fan-growth/examples-fan-growth-image-1.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+
+        },
+        {
+            "title":"Sticky Welcome Mat",
+            "description":"When you are investing in driving new visitors to your Facebook Page (from ads, your website, and other methods), do all you can to make a quality first impression. By making your default non-fan landing tab a memorable one, your fans will be more inclined to \"Like\" it and share your address with friends.",
+            "image":"images/examples/fan-growth/examples-fan-growth-image-2.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        },
+        {
+            "title":"Social Is Everywhere",
+            "description":"Getting more fans for your Page depends on two things: First, you have to get users to your Page. Second, you have to convince them to click the thumb. Don't skip step one or you'll starve your Page. Feed it with more traffic from online ad campaigns, blog postings, email marketing, and other promotional efforts off Facebook.",
+            "image":"images/examples/fan-growth/examples-fan-growth-image-3.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+        },
+        {
+            "title":"Be More Likeable",
+            "description":"Having a sexy new Page to promote is a great first step, but that alone won't keep the new fans coming and the existing ones sticking around. Thumbs up worthy brands and Pages are those that are conversational and speak with an authentic voice. Don't forget to make good company or your charm will likely wear off.",
+            "image":"images/examples/fan-growth/examples-fan-growth-image-4.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        }
+    ],
+    "footer":{
+        "prev":{
+            "text":"Overview",
+            "link":"#/p/examples/overview"
+        },
+        "next":{
+            "text":"Promotions",
+            "link":"#/p/examples/promotions"
+        }
+    }
+}

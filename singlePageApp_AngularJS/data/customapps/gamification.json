@@ -1,0 +1,52 @@
+{
+    "title": "Gamification",
+    "subtitle": "Take your fan engagement and fan growth to new heights by giving your users some control over how big the prizing or promotional experience gets.",
+    "image_splash": "images/custom-apps/gamification/client-example.jpg",
+    "intro_title":"Ramp Engagement And (Play)Time Spent With Your Brand",
+    "intro_description":"Have our team build and launch a gamification app on your fan page, so you can increase your brand loyalty while encouraging fans to share their involvement with your brand. These apps get users to play along while spending more time with your brand.",
+    "features":[
+        {
+            "title":"Give 'em a Reason",
+            "description":"Gamify your next sweepstakes and have your prize value increase as more people sign up. This is one surefire way to get visitors to share your page and have your brand become the subject of a viral marketing case study.",
+            "image":"images/custom-apps/gamification/image-1.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+
+        },
+        {
+            "title":"Share to Unlock",
+            "description":"Are you a content creator? Offer up a deeper user experience by letting your fans unlock new content (music, videos, games, and more) when your fan count reaches certain thresholds. This custom app gives your content-hungry fans multiple incentives to keep visiting and sharing your page.",
+            "image":"images/custom-apps/gamification/image-2.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        },
+        {
+            "title":"Who is Your #1 Fan?",
+            "description":"Asking your fans to take action is a snap if you give them the right incentive. Drop prizes for fans that accomplish certain goals and encourage them to recruit their friends.",
+            "image":"images/custom-apps/gamification/image-3.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+        },
+        {
+            "title":"Falling Prices",
+            "description":"Everybody loves a good deal. So give your loyal fans access to deeper discounts for shouting and your sharing next big promo and you'll soon be rewarded with new fans, customers, and brand evangelists.",
+            "image":"images/custom-apps/gamification/image-4.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        }
+    ],
+    "footer":{
+        "prev":{
+            "text":"Virtual Cards & Gifts",
+            "link":"#/p/customapps/virtual-cards-gifts"
+        },
+        "next":{
+            "text":"Cover Photo Creator",
+            "link":"#/p/customapps/cover-photo-creator"
+        }
+    }
+}

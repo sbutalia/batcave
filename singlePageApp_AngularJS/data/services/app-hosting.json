@@ -1,0 +1,54 @@
+{
+    "title": "We Scale to 11",
+    "subtitle": "We host some of the most heavily used Fan Page apps on Facebook. We're adding more all the time.",
+    "image_splash": "images/services/app-hosting/app-hosting.jpg",
+    "sub_info_001" : "<h1>Dedicated Environment</h1><p>Leverage our unique experience hosting high traffic Facebook apps.</p>",
+    "sub_info_002" : "<h1>Network Administration</h1><p>Our network is fully managed 24/7/365 by a team of system administrators.</p>",
+    "sub_info_003" : "<h1>Secure Datacenters</h1><p>We're co-located in two highly secure data centers making sure your app is safe from accidents, unauthorized entries, and power failures.</p>",
+    "sub_info_004" : "<h1>Scalable Growth</h1><p>Our infrastructure scales effortlessly to keep pace with the popularity and demand of your custom Facebook app or social game.</p>",
+    "features":[
+        {
+            "title":"Dedicated Environment",
+            "description":"Using the most reliable servers available, we give your Facebook app the flexibility and security it needs for maximum performance and scalability. We currently support millions of weekly Facebook app impressions exceeding 99.9% uptime over the past 12 months.",
+            "image":"images/services/app-hosting/services-app-hosting-image-1.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+
+        },
+        {
+            "title":"Network Administration",
+            "description":"Our dedicated servers are fully managed, monitored and administered 24/7/365 by our most experienced and proficient system administrators. In case of emergency our team is there to spring into action to resolve problems, and keep things running smoothly.",
+            "image":"images/services/app-hosting/services-app-hosting-image-2.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        },
+        {
+            "title":"Secure Datacenters",
+            "description":"Before you light the fuse to launch a viral Facebook app, you first need to make sure it's going to be both safe and secure. Our state-of-the-art technology provides total security, making sure your custom app is safe from accidents, unauthorized data disclosure, and tampering.",
+            "image":"images/services/app-hosting/services-app-hosting-image-3.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+        },
+        {
+            "title":"Scalable Growth",
+            "description":"Whether you are looking to build a custom fan page app or social game, our infrastructure scales effortlessly to keep pace with the popularity and demand of your app. Have no fear, North Social has already hosted some of the most heavily used apps on Facebook.",
+            "image":"images/services/app-hosting/services-app-hosting-image-4.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        }
+    ],
+    "footer":{
+        "prev":{
+            "text":"Sweepstakes",
+            "link":"#/p/apps/sweepstakes"
+        },
+        "next":{
+            "text":"Exclusive",
+            "link":"#/p/apps/exclusive"
+        }
+    }
+}

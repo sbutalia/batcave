@@ -1,0 +1,47 @@
+{
+    "large_icon": "/images/icons/large/apps-MOBILE-su-icon-75x75.jpg",
+    "title": "Mobile Signup",
+    "subtitle": "Engage your on the go customers with this mobile sign up and registration app.",
+    "install":{
+        "image_url":"images/apps/mobile-signup/mobile-signup-top-image.jpg"
+    },
+    "video_url": "http://youtube.com/embed/XFXgq2wkJy0?autoplay=1",
+    "bells_whistles":"The mobile coupon app gives brands simple tools to create powerful mobile coupon experience that can convert casual mobile browsers into highly motivated consumers with full shopping carts.",
+    "features":[
+        {
+            "title":"Timely Follow Up",
+            "description":"Capture customer interest and then follow up immediately or later with a mobile coupon securely delivered via email. Flexible redemption options include printable, online coupons codes, or just show at the register.",
+            "image":"images/apps/mobile-signup/mobile-signup-image-1.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+
+        },
+        {
+            "title":"Customize Your Forms",
+            "description":"Capture customer interest and excitement with fully customizable registration forms integrated with our instant response (email) system.",
+            "image":"images/apps/mobile-signup/mobile-signup-image-3.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        },
+        {
+            "title":"Mobilize Your Marketing",
+            "description":"The mobile sign up app allows you to capture information from users in nearly every setting and situation where they have a few seconds and a mobile phone. Custom forms are ideal for capturing text, addresses, emails, and more.",
+            "image":"images/apps/mobile-signup/mobile-signup-image-2.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+        }
+    ],
+    "footer":{
+        "prev":{
+            "text":"Mobile Coupon",
+            "link":"#/p/apps/mobile-coupon"
+        },
+        "next":{
+            "text":"Instagram",
+            "link":"#/p/apps/instagram"
+        }
+    }
+}

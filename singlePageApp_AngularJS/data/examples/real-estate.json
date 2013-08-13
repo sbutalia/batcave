@@ -1,0 +1,51 @@
+{
+    "title": "Real Estate",
+    "subtitle": "Facebook has quickly become a major component of every agent's online marketing plan. Make sure you're maximizing the potential of your Page by giving your properties and your brand the best chance at going social. Remember, it's a lot easier to get a prospective client to \"Like\" you than it is for them to visit your office.",
+    "image_splash": "images/examples/real-estate/examples-real-estate-client-example.jpg",
+    "insights_tips":"North Social apps can quickly help maximize the value of your premier online property, with Facebook apps for: brand building, showcasing your properties, client relationship management, social referrals, and more.",
+    "features":[
+        {
+            "title":"Post Virtual Tours",
+            "description":"Tired of running around and adapting to people's schedules to show them a property, only to find out it's not even close to what they were looking for? Use the the Video Channel app to set up a virtual tour of the property to save time and qualify leads.",
+            "image":"images/examples/real-estate/examples-real-estate-image-1.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+
+        },
+        {
+            "title":"Build Your Brand",
+            "description":"Having access to potential buyers is a huge asset, but before you take a step to sell them hard on Facebook, take some time to brand yourself as a person or company whom people will follow and trust. Properties come and go, but your business (and reputation) should be managed for the long haul.",
+            "image":"images/examples/real-estate/examples-real-estate-image-2.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        },
+        {
+            "title":"Create A Viral Yard Sign",
+            "description":"While sticking signs in the ground might attract a few more visitors, you can get more mileage (and foot traffic) from using the power of Facebook. Encourage the sellers (and neighbors) to tap into their social network by giving them a simple way to spread the word about the property.",
+            "image":"images/examples/real-estate/examples-real-estate-image-3.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+        },
+        {
+            "title":"Promote Open Houses",
+            "description":"Have you just listed a killer property and are looking at way to share it on Facebook? Use our Photo Showcase app to show it off in an elegant slider with built-in share functionality. Now maybe you won't be the only one eating the free cookies on Sunday afternoon...",
+            "image":"images/examples/real-estate/examples-real-estate-image-4.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        }
+    ],
+    "footer":{
+        "prev":{
+            "text":"Politics / Causes",
+            "link":"#/p/examples/politics-causes"
+        },
+        "next":{
+            "text":"Restaurant / Bar",
+            "link":"#/p/examples/restaurant-bar"
+        }
+    }
+}

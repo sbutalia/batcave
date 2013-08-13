@@ -1,0 +1,53 @@
+{
+    "title": "Elevate Your Fan Engagement",
+    "subtitle": "Monitor and engage fans across multiple social media platforms from a single dashboard designed to keep you in-touch and on top of all your social properties.",
+    "video_title_number": "Demo Video (2 of 3)",
+    "video_urls": "http://player.vimeo.com/video/42586934?autoplay=1",
+    "intro_title":"Keep Your Finger On The Pulse Of Everything Social",
+    "intro_description":"Keeping a handle on all your social media interactions can be a real challenge. Ngage brings all of your social properties into a single unified social inbox so you can easily manage multiple Fan Pages, Twitter accounts, and more. Powerful listening tools enable you to monitor everything.",
+    "features":[
+        {
+            "title":"One Social Inbox",
+            "description":"Imagine every post, comment, tweet, mention, re-tweet, and tag pulled into a single inbox so that you can finally stay on top of it all without losing your mind. Managing your social media marketing doesn't have to be hard, you just need the right tools.",
+            "image":"images/ngage/engagement/engagement_1.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+
+        },
+        {
+            "title":"Listen More Effectively",
+            "description":"Listening is a big part of being successful on social media. Ngage pulls together all your social properties along with other key topics, people, and companies you want to interact with into a single easy to use dashboard. If the Wizard of Oz had a social media dashboard, it would look like this.",
+            "image":"images/ngage/engagement/engagement_2.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        },
+        {
+            "title":"Assign Posts & Tweets For Follow Up",
+            "description":"When a post, comment, or tweet pops up that you need to pass along to a specific person on your team (legal, tech support, accounting, etc.) Ngage enables you to assign it with a single click to make sure that you engage your fan with the right person.",
+            "image":"images/ngage/engagement/engagement_3.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+        },
+        {
+            "title":"Set Inbox Rules & Notifications",
+            "description":"You probably can't spent 100% of your day on social media. Ngage's rules and notification settings will search your inbox and attached social properties for keywords and can send you email alerts so that if someone is \"chirping\" about your brand, you'll be the first to know.",
+            "image":"images/ngage/engagement/engagement_4.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        }
+    ],
+    "footer":{
+        "prev":{
+            "text":"Social Publishing",
+            "link":"#/p/analytics/social-publishing"
+        },
+        "next":{
+            "text":"Analytics",
+            "link":"#/p/analytics/analytics"
+        }
+    }
+}

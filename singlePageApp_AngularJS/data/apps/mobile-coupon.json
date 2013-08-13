@@ -1,0 +1,47 @@
+{
+    "large_icon": "/images/icons/large/apps-MOBILE-fo-icon-75x75.jpg",
+    "title": "Mobile Coupon",
+    "subtitle": "Engage your on the go customers with this mobile + social coupon app.",
+    "install":{
+        "image_url":"images/apps/mobile-coupon/mobile-coupon-top-image.jpg"
+    },
+    "video_url": "http://www.youtube.com/embed/_im4IR_gqOc?autoplay=1",
+    "bells_whistles":"The mobile coupon app gives brands simple tools to create powerful mobile coupon experience that can convert casual mobile browsers into highly motivated consumers with full shopping carts.",
+    "features":[
+        {
+            "title":"Timely Follow Up",
+            "description":"Capture customer interest and then follow up immediately or later with a mobile coupon securely delivered via email. Flexible redemption options include printable, online coupons codes, or just show at the register.",
+            "image":"images/apps/mobile-coupon/mobile-coupon-image-1.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+
+        },
+        {
+            "title":"Maximize Existing Marketing",
+            "description":"Add a mobile coupon to your existing marketing campaigns to help convert print, TV, radio, online, and out of home assets into a measurable tool for generating leads, sales, and results.",
+            "image":"images/apps/mobile-coupon/mobile-coupon-image-2.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        },
+        {
+            "title":"No Cracks to Fall Through",
+            "description":"Integrated email delivery ensures that your coupons are received by your customers and the automated process includes simple list management and analytics so you can track and measure redemption rates to optimize your promotions.",
+            "image":"images/apps/mobile-coupon/mobile-coupon-image-3.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+        }
+    ],
+    "footer":{
+        "prev":{
+            "text":"Mobile Sweepstakes",
+            "link":"#/p/apps/mobile-sweepstakes"
+        },
+        "next":{
+            "text":"Mobile Sign Up",
+            "link":"#/p/apps/mobile-signup"
+        }
+    }
+}

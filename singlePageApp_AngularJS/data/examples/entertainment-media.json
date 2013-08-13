@@ -1,0 +1,51 @@
+{
+    "title": "Entertainment / Media",
+    "subtitle": "Whether you're promoting a film, television program, magazine, video game, or special event, North Social apps enable you to customize your Facebook Page to spread your content farther and wider than it's ever been before.",
+    "image_splash": "images/examples/entertainment-media/examples-entertainment-media-client-example.jpg",
+    "insights_tips":"You're already the king at creating compelling content, now it's time to team up with a partner that wears a crown when it comes to distributing it. Our content apps enable you to deliver clean, high quality, and memorable viewing experiences on your Facebook Page.",
+    "features":[
+        {
+            "title":"Showcase a Sneak Peek",
+            "description":"Have \"never been seen before\" content? Screen it with one of our easy-to-install Video apps. These powerful apps come with a fan-gated feature which allows you to make your exclusive treats viewable by fans only so you can drive more \"Likes\" for your Page.",
+            "image":"images/examples/entertainment-media/examples-entertainment-media-image-1.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+
+        },
+        {
+            "title":"Motivate Your Crowd",
+            "description":"North Social apps not only help you ramp fan count and distribute your fresh content, but they have share and commenting features which help you convert spectators into actual participants.",
+            "image":"images/examples/entertainment-media/examples-entertainment-media-image-2.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        },
+        {
+            "title":"Reward Your Fanbase",
+            "description":"If Facebook and their pervasive \"Like\" button has taught us anything, it's that people love being on the receiving end. Use our mix of powerful promotional apps to post a coupon code, run a sweepstakes, give away a freebie, hand out VIP invites, or socialize a group deal.",
+            "image":"images/examples/entertainment-media/examples-entertainment-media-image-3.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+        },
+        {
+            "title":"Involve Your Partners",
+            "description":"When trying to leverage your brand assets to grow your Facebook presence, don't forget about involving your strategic partners and properties. Our suite of apps can also be installed on their Pages, letting you cross-promote your content to even more ears and eyeballs.",
+            "image":"images/examples/entertainment-media/examples-entertainment-media-image-4.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        }
+    ],
+    "footer":{
+        "prev":{
+            "text":"Education",
+            "link":"#/p/examples/education"
+        },
+        "next":{
+            "text":"Food / Beverage",
+            "link":"#/p/examples/food-beverage"
+        }
+    }
+}

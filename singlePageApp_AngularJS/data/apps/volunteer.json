@@ -1,0 +1,47 @@
+{
+    "large_icon": "/images/icons/large/apps-vo-icon-75x75.png",
+    "title": "Volunteer",
+    "subtitle": "Promote a cause and let your recruits choose when, where, and how they want to donate their time & energy.",
+    "install":{
+        "image_url":"http://northsocial.com//images/app-images/deal-share/apps-deal-share-top-image.jpg"
+    },
+    "video_url": "http://youtube.com/embed/upxQbnvxFJQ?autoplay=1",
+    "bells_whistles":"Need more foot soldiers? Activate your army with this simple app that let's to collect and manage your cause advocates. Easily embed a volunteer sign up form into your Facebook page.",
+    "features":[
+        {
+            "title":"Simple Sign Up",
+            "description":"Embed a completely customizable info-capture form inside your Facebook Page to let your recruits sign up.",
+            "image":"images/apps/volunteer/apps-volunteer-image-1.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+
+        },
+        {
+            "title":"Share Management",
+            "description":"Every North Social app includes the ability to customize the image and messaging that gets posted to a user's wall when they share your Page.",
+            "image":"images/apps/volunteer/apps-volunteer-image-2.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        },
+        {
+            "title":"Social CRM",
+            "description":"North Contact is integrated into North Social to give you simple tools to manage and grow your subscriber lists, create and send beautiful emails, and track every click, open, delete, and forward.",
+            "image":"images/apps/volunteer/apps-volunteer-image-3.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+        }
+    ],
+    "footer":{
+        "prev":{
+            "text":"Twitter Feed",
+            "link":"#/p/apps/twitter-feed"
+        },
+        "next":{
+            "text":"Map It",
+            "link":"#/p/apps/map-it"
+        }
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Musicians / Bands",
+    "subtitle": "As more and more tools have become available to customize Facebook Pages, bands and artists have been been quickly migrating over from MySpace to promote themselves and their music on Facebook. Just like an amp is to your guitar, your custom Page is to your career.",
+    "image_splash": "images/examples/musicians-brands/examples-musician-band-client-example.jpg",
+    "insights_tips":"Introduce yourself to fans worldwide by plugging your music into the deepest catalog of Facebook applications on the planet. Your North Social go-to set list includes apps for fan growth, content distribution, music promotion, and e-commerce. Get after it.",
+    "features":[
+        {
+            "title":"Find New Fans",
+            "description":"Have you maximized your listening base through traditional channels? Your music deserves to be heard on a bigger scale. Push out your audio and video creations with our \"fan-gated\" apps and begin attracting new listeners and creating your own social wave.",
+            "image":"images/examples/musicians-brands/examples-musician-band-image-1.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+
+        },
+        {
+            "title":"Give it away, give it away, give it away now!",
+            "description":"Take a cue from the Chili Peppers and use our Exclusive app to give away a digital download or mix. It's one of the best ways to gain more fans and socialize your sounds.",
+            "image":"images/examples/musicians-brands/examples-musician-band-image-2.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        },
+        {
+            "title":"Showcase Your Videos",
+            "description":"Have you shot a memorable music video or do you have footage from your latest live show? Use our Video Channel or Video Premier apps to push out this pass-on worthy content and add some new groupies in the process.",
+            "image":"images/examples/musicians-brands/examples-musician-band-image-3.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+        },
+        {
+            "title":"Sell More Stuff",
+            "description":"It's nice to have people listen to your music, but it's even better when they buy it. Use our social commerce apps to link people to iTunes, Amazon, or another external website to buy your music, merch, concert tix, and more.",
+            "image":"images/examples/musicians-brands/examples-musician-band-image-4.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        }
+    ],
+    "footer":{
+        "prev":{
+            "text":"Medical / Legal",
+            "link":"#/p/examples/medical-legal"
+        },
+        "next":{
+            "text":"Nonprofit Organizations",
+            "link":"#/p/examples/non-profit-organizations"
+        }
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "title": "Essay Contest",
+    "subtitle": "Photos aren't the only things that get shared on Facebook. Let your fans express themselves through the written word by launching a compelling essay or text-entry contest on your brand's page.",
+    "image_splash": "images/custom-apps/essay-contest/client-example.jpg",
+    "intro_title":"Social Networks Were Built For Sharing.",
+    "intro_description":"Activate our UGC essay contest app to call on the collective creativity of your fan base to help educate and entertain your consumers, or even come up with your brand's next big idea.",
+    "features":[
+        {
+            "title":"Caption Contest",
+            "description":"Post a funny photo or cartoon and encourage your fans to leave their best descriptive caption. The fan whose caption gets the most votes, wins a prize (Note: this app is 100% compliant with Facebook promotion guidelines).",
+            "image":"images/custom-apps/essay-contest/image-1.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+
+        },
+        {
+            "title":"Naming Contest",
+            "description":"Motivate your fan base by giving them an opportunity to come up with or have a say in the new catchy moniker for your sports team, new product, ice cream flavor, or brand mascot.",
+            "image":"images/custom-apps/essay-contest/image-2.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        },
+        {
+            "title":"Campaign Slogans",
+            "description":"Invite your fans to help come up with or vote for the new tagline for your brand or political campaign (Insert Herman Cain joke here).",
+            "image":"images/custom-apps/essay-contest/image-3.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+        },
+        {
+            "title":"Recipe For Success",
+            "description":"People already love to share photos of what they're eating and cooking, so why not take it one step further and reward them for posting the best receipe featuring your product as a key ingredient?",
+            "image":"images/custom-apps/essay-contest/image-4.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        }
+    ],
+    "footer":{
+        "prev":{
+            "text":"Video Contest",
+            "link":"#/p/customapps/video-contest"
+        },
+        "next":{
+            "text":"Social Games",
+            "link":"#/p/customapps/social-games"
+        }
+    }
+}

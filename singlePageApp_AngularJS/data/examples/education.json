@@ -1,0 +1,51 @@
+{
+    "title": "Education",
+    "subtitle": "While helping former graduates stay connected is one of the primary reasons universities are creating and growing their Facebook presence, there's still a lot more that schools can be doing with their Facebook Pages to inspire more interactivity.",
+    "image_splash": "images/examples/education/examples-education-client-example.jpg",
+    "insights_tips":"North Social apps give you the opportunity to add more functionality and features to your school's Facebook Page, enabling you to promote and share informative and entertaining content with those interested in keeping up with the latest news at your institution.",
+    "features":[
+        {
+            "title":"Be A Social Compass",
+            "description":"Higher Ed. Facebook Pages can attract a diverse mix of visitors; prospective students, current students, staff, faculty, parents and alumni. You should create an attractive, custom landing page using one of our linkable apps so you can effectively guide your fans to go deeper on your Page, to another Facebook Page, or to an external website.",
+            "image":"images/examples/education/examples-education-image-1.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+
+        },
+        {
+            "title":"Impress and Recruit",
+            "description":"Use North Social's Sign Up app to target prospective students, urging them to join your community. Or try one of our Video apps to show these higher education tire kickers an informative video about why your institution deserves their consideration.",
+            "image":"images/examples/education/examples-education-image-2.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        },
+        {
+            "title":"Engage Alumni",
+            "description":"From promoting upcoming events to showcasing and selling branded merchandize from your online store, inspiring loyal alumni has never been easier. Need more ideas? Use North Social apps to strengthen support for an important school initiative, and even for encouraging Page visitors to make a donation using our simple Donate app.",
+            "image":"images/examples/education/examples-education-image-3.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+        },
+        {
+            "title":"Unleash School Spirit",
+            "description":"One of the most effective ways to ramp fan count and keep school spirit high is by offering \"share-worthy\" content. Use our viral Exclusive app, which encourages visitors to share a link with their friends in order to unlock an exclusive download (school song ringtone, highlight video, screen saver, invite, or digital coupon).",
+            "image":"images/examples/education/examples-education-image-4.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        }
+    ],
+    "footer":{
+        "prev":{
+            "text":"Consumer Brands",
+            "link":"#/p/examples/consumer-brands"
+        },
+        "next":{
+            "text":"Entertainment Media",
+            "link":"#/p/examples/entertainment-media"
+        }
+    }
+}

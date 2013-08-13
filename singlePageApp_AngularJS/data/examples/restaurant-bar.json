@@ -1,0 +1,51 @@
+{
+    "title": "Restaurant / Bar",
+    "subtitle": "Finding new places to eat and drink online has never been easier. But don't let the aroma coming from the kitchen hinder your ability to sniff out high impact Facebook marketing tactics. Seriously, sometimes the best ideas for attracting new patrons (and keeping current ones coming back) are actually right under our noses.",
+    "image_splash": "images/examples/restaurant-bar/examples-restaurant-bar-client-example.jpg",
+    "insights_tips":"Use North Social apps to more effectively interact with your customers, reward them on their birthday, invite them to special events, activate share worthy specials, feature your menu, and cause your competition heartburn.",
+    "features":[
+        {
+            "title":"Keep It Fresh",
+            "description":"Don't forget, your content has an expiration date too. Our simple apps help you keep your patrons engaged and up to date with seasonal menus and weekly offers without the need of your web guy, bartender, or sous chef.",
+            "image":"images/examples/restaurant-bar/examples-restaurant-bar-image-1.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+
+        },
+        {
+            "title":"Run Timely Promotions",
+            "description":"It's 4:30pm on a Friday. That means the hungry and the thirsty are getting ready to kick off their weekends. How can you attract a Happy Hour crowd using Facebook? Present those potential customers in your neighborhood an offer they can't refuse using one of our promotion apps.",
+            "image":"images/examples/restaurant-bar/examples-restaurant-bar-image-2.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        },
+        {
+            "title":"Sell In Bulk",
+            "description":"If you're losing sleep trying to figure out how to put butts in seats on a slow night, you can now rest easy. Attract new customers by running your own group deal using our powerful Deal Share app. The best part? There are no commissions or fees to activate this app.",
+            "image":"images/examples/restaurant-bar/examples-restaurant-bar-image-3.jpg",
+            "text_box_css": "pull-left",
+            "text_box_inner_css": "text-right",
+            "image_box_css": "pull-right"
+        },
+        {
+            "title":"Drop Bread Crumbs",
+            "description":"As you begin to build out your Facebook presence, don't forget to sprinkle those helpful bread crumbs for your fans, friends, and followers to easily find your restaurant or bar. No one likes getting lost. Use our simple Map It app to give out your address and directions to your establishment.",
+            "image":"images/examples/restaurant-bar/examples-restaurant-bar-image-4.jpg",
+            "text_box_css": "pull-right",
+            "text_box_inner_css": "text-left",
+            "image_box_css": "pull-left"
+        }
+    ],
+    "footer":{
+        "prev":{
+            "text":"Real Estate",
+            "link":"#/p/examples/real-estate"
+        },
+        "next":{
+            "text":"Retail",
+            "link":"#/p/examples/retail"
+        }
+    }
+}
